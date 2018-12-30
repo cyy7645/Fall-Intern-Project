@@ -1,0 +1,17 @@
+run_on_gpu_1.ipynb, run_on_gpu_1.ipynb: 包含在GPU上运行模型命令，查看GPU使用率命令
+
+constant.py :常量的定义
+
+dataload.py : 定义 DataLoad类，使数据以batch形式进入模型
+
+parse_tree.py : 对数据集预处理，包含把contexts解析成树结构储存在 parsed_data文件夹中 （运行该代码产生的中间数据集在TreeLSTM_DMN+不同，因此需要重新解析），在服务器运行将会调用全部的cpu资源。
+
+parser_log.txt : parse_tree.py运行时的解析日志，能够获得解析进度，还需要多久解析时间等信息。
+
+tree.py : 预定义树结构，通过对句子解析产生的中间变量(包含单词的父子关系)，构建树结构
+
+parsed_data: 保存了解析好完成的中间数据集
+
+torchfold.py: 核心代码，内部定义了模型框架，以及训练、测试模型的主函数，训练日志将保存在log.txt文件中，对每个任务只需要传入解析完成的中间数据集即可。
+
+log.txt : 训练日志

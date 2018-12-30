@@ -1,0 +1,34 @@
+此文件夹包含TreeLSTM_DMN+ 模型运行所需要的 预处理代码，各种类定义代码，原始数据和解析好的中间数据集等
+
+run_on_gpu_1.ipynb run_on_gpu_2.ipynb : 包含在GPU上运行模型命令，查看GPU使用率命令
+
+treelstm_dmn_babi_loader.py : 数据预处理代码，包含对contexts中句子的解析，解析结果保存在 parsed_dataset文件夹中。
+
+constants.py : 常量的定义
+
+adict.py : 字典类的定义
+
+Tree.py : 树结构的定义
+
+SentenceTreeLSTM.py : 对一颗树结构（代表句子的依存树）使用TreeLSTM迭代，返回Tensor类型的隐藏层状态
+
+TreeLSTM.py : 对contexts中的所有句子使用TreeLSTM迭代，返回拼接好的隐藏层状态
+
+treelstm_dmn_babi_main.py : 内部定义了模型框架，以及训练、测试模型的主函数，训练日志将保存在log.txt文件中，对每个任务只需要传入解析完成的中间数据集即可。
+
+log.txt : 包含对20个任务训练十次（每次训练独立，排除模型的不稳定性）的训练、测试日志
+
+lib: 包含解析树所需要的包 stanford-parser
+
+glove: 包含GloVe词向量库（可以为每个单词根据GloVe赋予初始词向量，在此基础上更新，后验证效果不佳）
+
+babi_main_glove.py : 与treelstm_dmn_babi_main.py唯一不同点是词向量使用GloVe。
+
+utils.py : 定义了加载GloVe词向量的类，在babi_main_glove.py中调用
+
+log_for_every_task: 每个任务的训练测试日志（理应全部包含在log.txt，但之前每个任务是分开训练的）
+
+babi_loader_chinese.py 和 babi_main_chinese.py:
+采用DMN+模型，对数据集使用google翻译接口转换成中文，实现对中文数据的问答。但由于服务器无法连接到谷歌，无法在服务器上运行。
+
+

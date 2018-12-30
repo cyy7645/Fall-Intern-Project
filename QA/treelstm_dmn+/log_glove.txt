@@ -1,0 +1,54 @@
+__main__ BabiDataset
+__main__ adict
+__main__ Tree
+==> File found, loading to memory
+[Task 1, Epoch 0] [Training] loss :  310.19034, acc :  0.02, batch_idx : 0
+[Task 1, Epoch 0] [Training] loss :  197.14883, acc :  0.1752, batch_idx : 20
+[Task 1, Epoch 0] [Training] loss :  187.90372, acc :  0.172, batch_idx : 40
+[Task 1, Epoch 0] [Training] loss :   182.3634, acc :  0.1725, batch_idx : 60
+[Task 1, Epoch 0] [Training] loss :  162.94704, acc :  0.1895, batch_idx : 80
+[Run 0, Task 1, Epoch 0] [Validate] Accuracy :  0.422
+[Task 1, Epoch 1] [Training] loss :  152.48344, acc :  0.37, batch_idx : 0
+[Task 1, Epoch 1] [Training] loss :   129.0269, acc :  0.469, batch_idx : 20
+[Task 1, Epoch 1] [Training] loss :  123.77094, acc :  0.4832, batch_idx : 40
+[Task 1, Epoch 1] [Training] loss :  107.55448, acc :  0.488, batch_idx : 60
+[Task 1, Epoch 1] [Training] loss :  110.00926, acc :  0.4911, batch_idx : 80
+[Run 0, Task 1, Epoch 1] [Validate] Accuracy :  0.493
+[Task 1, Epoch 2] [Training] loss :  127.22964, acc :  0.42, batch_idx : 0
+[Task 1, Epoch 2] [Training] loss :  108.94815, acc :  0.5238, batch_idx : 20
+[Task 1, Epoch 2] [Training] loss :  121.76095, acc :  0.5237, batch_idx : 40
+[Task 1, Epoch 2] [Training] loss :  95.438431, acc :  0.5189, batch_idx : 60
+[Task 1, Epoch 2] [Training] loss :  111.40103, acc :  0.5152, batch_idx : 80
+[Run 0, Task 1, Epoch 2] [Validate] Accuracy :  0.512
+[Task 1, Epoch 3] [Training] loss :  106.03155, acc :  0.53, batch_idx : 0
+[Task 1, Epoch 3] [Training] loss :  113.35737, acc :  0.4962, batch_idx : 20
+[Task 1, Epoch 3] [Training] loss :  111.87983, acc :  0.5139, batch_idx : 40
+[Task 1, Epoch 3] [Training] loss :   114.2319, acc :  0.5166, batch_idx : 60
+[Task 1, Epoch 3] [Training] loss :  106.78665, acc :  0.5162, batch_idx : 80
+[Run 0, Task 1, Epoch 3] [Validate] Accuracy :  0.524
+[Task 1, Epoch 4] [Training] loss :  104.35979, acc :  0.55, batch_idx : 0
+[Task 1, Epoch 4] [Training] loss :  103.83793, acc :  0.5343, batch_idx : 20
+[Task 1, Epoch 4] [Training] loss :  103.94146, acc :  0.5324, batch_idx : 40
+[Task 1, Epoch 4] [Training] loss :   107.5677, acc :  0.5244, batch_idx : 60
+[Task 1, Epoch 4] [Training] loss :  108.39529, acc :  0.5212, batch_idx : 80
+[Run 0, Task 1, Epoch 4] [Validate] Accuracy :  0.528
+[Task 1, Epoch 5] [Training] loss :  98.453697, acc :   0.6, batch_idx : 0
+[Task 1, Epoch 5] [Training] loss :  95.693405, acc :  0.5448, batch_idx : 20
+[Task 1, Epoch 5] [Training] loss :  112.13317, acc :  0.5361, batch_idx : 40
+[Task 1, Epoch 5] [Training] loss :  101.63206, acc :  0.5385, batch_idx : 60
+[Task 1, Epoch 5] [Training] loss :  101.17522, acc :  0.537, batch_idx : 80
+[Run 0, Task 1, Epoch 5] [Validate] Accuracy :  0.516
+[Task 1, Epoch 6] [Training] loss :  97.602821, acc :  0.59, batch_idx : 0
+[Task 1, Epoch 6] [Training] loss :   103.2306, acc :  0.5486, batch_idx : 20
+[Task 1, Epoch 6] [Training] loss :  90.063278, acc :  0.5366, batch_idx : 40
+[Task 1, Epoch 6] [Training] loss :  108.23923, acc :  0.5405, batch_idx : 60
+[Task 1, Epoch 6] [Training] loss :  89.762032, acc :  0.5373, batch_idx : 80
+[Run 0, Task 1, Epoch 6] [Validate] Accuracy :  0.496
+[Task 1, Epoch 7] [Training] loss :  108.19889, acc :  0.48, batch_idx : 0
+[Task 1, Epoch 7] [Training] loss :  109.58376, acc :  0.5348, batch_idx : 20
+[Task 1, Epoch 7] [Training] loss :  97.266747, acc :  0.5385, batch_idx : 40
+[Task 1, Epoch 7] [Training] loss :  99.191132, acc :  0.5411, batch_idx : 60
+[Task 1, Epoch 7] [Training] loss :  97.564713, acc :  0.542, batch_idx : 80
+[Run 0, Task 1, Epoch 7] [Validate] Accuracy :  0.507
+[Task 1, Epoch 8] [Training] loss :  98.092773, acc :  0.61, batch_idx : 0
+[Task 1, Epoch 8] [Training] loss :  101.62286, acc :  0.5605, batch_idx : 20

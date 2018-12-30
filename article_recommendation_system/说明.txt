@@ -1,0 +1,13 @@
+根据一篇文章在数据库中找到相似度最高的N篇文章
+
+dataset文件夹包含原始数据集，为多个 .csv文件，每个文件代表对某一主题的新闻集合，
+每篇文章有以下几个属性：id, create_time, title, img_url, category, source, description, 
+content, nick_name_uuid.
+我门只需要提取出：
+id: 作为文章的唯一标示，最终输出相似文章的id.
+create_time: 可以指定时间，使相似文章的搜索在指定天数内。
+title: 文章的标题
+description: 文章的整体描述
+content: 文章的内容
+
+具体处理数据，推荐文章过程参见 article_recommendation.ipynb

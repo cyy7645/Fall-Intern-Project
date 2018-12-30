@@ -1,0 +1,8 @@
+TS_data_analysis是对数据进行分析，预处理，后接的数字为数据集标识。
+TS_ARIMA是对预处理后的数据使用ARIMA模型分析。
+TS_keras是对预处理后的数据使用神经网络模型分析。
+TS_SVR是对预处理后的数据使用SVR模型分析。
+
+在data文件夹中3512zizhufk，3876zizhufk，7529zizhufk为原始数据。
+bank_after_clean_20是从原始数据中提取新特征之后的数据集，但数据只是简单的累加取对数。
+original_log_no_abnorm是对数据累加取对数后，经过异常值处理后的数据集。

@@ -1,0 +1,7 @@
+models: 训练好的模型，可避免重复训练
+
+babi_loader.py : 对原始数据预处理
+
+babi_main.py : 模型框架 以及 训练20个任务的main函数
+
+log.txt : 训练日志

@@ -1,0 +1,7 @@
+__main__ BabiDataset
+__main__ adict
+__main__ Tree
+[Task 1, Epoch 0] [Training] loss :  313.76575, acc :  0.11, batch_idx : 0
+[Task 1, Epoch 0] [Training] loss :  189.43988, acc :  0.1633, batch_idx : 20
+[Task 1, Epoch 0] [Training] loss :  183.91154, acc :  0.1712, batch_idx : 40
+[Task 1, Epoch 0] [Training] loss :  162.00157, acc :  0.2026, batch_idx : 60

@@ -1,0 +1,1679 @@
+[Run 0, Task 3, Epoch 0] [Training] loss :  1.8527835, acc :  0.1994, batch_idx : 120
+[Run 0, Task 3, Epoch 0] [Validate] Accuracy :  0.159 Loss :  1.727
+[Run 0, Task 3, Epoch 1] [Training] loss :  1.6690618, acc :  0.2037, batch_idx : 120
+[Run 0, Task 3, Epoch 1] [Validate] Accuracy :  0.216 Loss :  1.66
+[Run 0, Task 3, Epoch 2] [Training] loss :  1.6457451, acc :  0.2126, batch_idx : 120
+[Run 0, Task 3, Epoch 2] [Validate] Accuracy :  0.189 Loss :  1.679
+[Run 0, Task 3, Epoch 3] [Training] loss :  1.6374822, acc :  0.2079, batch_idx : 120
+[Run 0, Task 3, Epoch 3] [Validate] Accuracy :  0.239 Loss :  1.607
+[Run 0, Task 3, Epoch 4] [Training] loss :  1.5907616, acc :  0.2634, batch_idx : 120
+[Run 0, Task 3, Epoch 4] [Validate] Accuracy :  0.285 Loss :  1.562
+[Run 0, Task 3, Epoch 5] [Training] loss :  1.5495738, acc :  0.2924, batch_idx : 120
+[Run 0, Task 3, Epoch 5] [Validate] Accuracy :  0.265 Loss :  1.585
+[Run 0, Task 3, Epoch 6] [Training] loss :  1.4713605, acc :  0.3476, batch_idx : 120
+[Run 0, Task 3, Epoch 6] [Validate] Accuracy :  0.424 Loss :  1.47
+[Run 0, Task 3, Epoch 7] [Training] loss :  1.2466132, acc :  0.502, batch_idx : 120
+[Run 0, Task 3, Epoch 7] [Validate] Accuracy :  0.498 Loss :  1.259
+[Run 0, Task 3, Epoch 8] [Training] loss :  1.1121323, acc :  0.5607, batch_idx : 120
+[Run 0, Task 3, Epoch 8] [Validate] Accuracy :  0.527 Loss :  1.141
+[Run 0, Task 3, Epoch 9] [Training] loss :  1.0037406, acc :  0.6083, batch_idx : 120
+[Run 0, Task 3, Epoch 9] [Validate] Accuracy :  0.531 Loss :  1.169
+[Run 0, Task 3, Epoch 10] [Training] loss :  0.94213644, acc :  0.6336, batch_idx : 120
+[Run 0, Task 3, Epoch 10] [Validate] Accuracy :  0.533 Loss :  1.125
+[Run 0, Task 3, Epoch 11] [Training] loss :  0.87176519, acc :  0.6626, batch_idx : 120
+[Run 0, Task 3, Epoch 11] [Validate] Accuracy :  0.534 Loss :  1.253
+[Run 0, Task 3, Epoch 12] [Training] loss :  0.78596596, acc :  0.7022, batch_idx : 120
+[Run 0, Task 3, Epoch 12] [Validate] Accuracy :  0.503 Loss :  1.306
+[Run 0, Task 3, Epoch 13] [Training] loss :  0.69668065, acc :  0.74, batch_idx : 120
+[Run 0, Task 3, Epoch 13] [Validate] Accuracy :  0.512 Loss :  1.384
+[Run 0, Task 3, Epoch 14] [Training] loss :  0.63700045, acc :  0.7643, batch_idx : 120
+[Run 0, Task 3, Epoch 14] [Validate] Accuracy :  0.527 Loss :  1.455
+[Run 0, Task 3, Epoch 15] [Training] loss :  0.57883184, acc :  0.7889, batch_idx : 120
+[Run 0, Task 3, Epoch 15] [Validate] Accuracy :  0.53 Loss :  1.515
+[Run 0, Task 3, Epoch 16] [Training] loss :  0.50826754, acc :  0.8183, batch_idx : 120
+[Run 0, Task 3, Epoch 16] [Validate] Accuracy :  0.521 Loss :  1.549
+[Run 0, Task 3, Epoch 17] [Training] loss :  0.44076442, acc :  0.8466, batch_idx : 120
+[Run 0, Task 3, Epoch 17] [Validate] Accuracy :  0.506 Loss :  1.758
+[Run 0, Task 3, Epoch 18] [Training] loss :  0.40456137, acc :  0.8591, batch_idx : 120
+[Run 0, Task 3, Epoch 18] [Validate] Accuracy :  0.509 Loss :  1.711
+[Run 0, Task 3, Epoch 19] [Training] loss :  0.36646972, acc :  0.8699, batch_idx : 120
+[Run 0, Task 3, Epoch 19] [Validate] Accuracy :  0.498 Loss :  1.912
+[Run 0, Task 3, Epoch 20] [Training] loss :  0.32127751, acc :  0.8892, batch_idx : 120
+[Run 0, Task 3, Epoch 20] [Validate] Accuracy :  0.511 Loss :  1.889
+[Run 0, Task 3, Epoch 21] [Training] loss :  0.27642653, acc :  0.9052, batch_idx : 120
+[Run 0, Task 3, Epoch 21] [Validate] Accuracy :  0.529 Loss :  2.119
+[Run 0, Task 3, Epoch 22] [Training] loss :  0.28695584, acc :  0.9029, batch_idx : 120
+[Run 0, Task 3, Epoch 22] [Validate] Accuracy :  0.517 Loss :  2.174
+[Run 0, Task 3, Epoch 23] [Training] loss :  0.25047134, acc :  0.9179, batch_idx : 120
+[Run 0, Task 3, Epoch 23] [Validate] Accuracy :  0.495 Loss :  2.197
+[Run 0, Task 3, Epoch 24] [Training] loss :  0.2081258, acc :  0.9317, batch_idx : 120
+[Run 0, Task 3, Epoch 24] [Validate] Accuracy :  0.515 Loss :  2.211
+[Run 0, Task 3, Epoch 25] [Training] loss :  0.23411638, acc :  0.9213, batch_idx : 120
+[Run 0, Task 3, Epoch 25] [Validate] Accuracy :  0.509 Loss :  2.379
+[Run 0, Task 3, Epoch 26] [Training] loss :  0.1909189, acc :  0.9387, batch_idx : 120
+[Run 0, Task 3, Epoch 26] [Validate] Accuracy :  0.489 Loss :  2.551
+[Run 0, Task 3, Epoch 27] [Training] loss :  0.14966001, acc :  0.9488, batch_idx : 120
+[Run 0, Task 3, Epoch 27] [Validate] Accuracy :  0.479 Loss :  2.748
+[Run 0, Task 3, Epoch 28] [Training] loss :  0.15921997, acc :  0.9494, batch_idx : 120
+[Run 0, Task 3, Epoch 28] [Validate] Accuracy :  0.511 Loss :  2.714
+[Run 0, Task 3, Epoch 29] [Training] loss :  0.14062375, acc :  0.9552, batch_idx : 120
+[Run 0, Task 3, Epoch 29] [Validate] Accuracy :  0.495 Loss :  3.016
+[Run 0, Task 3, Epoch 30] [Training] loss :  0.11751294, acc :  0.962, batch_idx : 120
+[Run 0, Task 3, Epoch 30] [Validate] Accuracy :  0.501 Loss :  3.092
+[Run 0, Task 3, Epoch 31] [Training] loss :  0.10252221, acc :  0.9682, batch_idx : 120
+[Run 0, Task 3, Epoch 31] [Validate] Accuracy :  0.496 Loss :  3.194
+[Run 0, Task 3, Epoch 32] [Training] loss :  0.16473191, acc :  0.9454, batch_idx : 120
+[Run 0, Task 3, Epoch 32] [Validate] Accuracy :  0.501 Loss :  2.91
+[Run 0, Task 3, Epoch 33] [Training] loss :  0.12331311, acc :  0.9602, batch_idx : 120
+[Run 0, Task 3, Epoch 33] [Validate] Accuracy :  0.488 Loss :  3.027
+[Run 0, Task 3, Epoch 34] [Training] loss :  0.1006776, acc :  0.9689, batch_idx : 120
+[Run 0, Task 3, Epoch 34] [Validate] Accuracy :  0.488 Loss :  3.222
+[Run 0, Task 3, Epoch 35] [Training] loss :  0.10802892, acc :  0.9668, batch_idx : 120
+[Run 0, Task 3, Epoch 35] [Validate] Accuracy :  0.507 Loss :  3.091
+[Run 0, Task 3, Epoch 36] [Training] loss :  0.092414619, acc :  0.9707, batch_idx : 120
+[Run 0, Task 3, Epoch 36] [Validate] Accuracy :  0.488 Loss :  3.06
+[Run 0, Task 3, Epoch 37] [Training] loss :  0.094933938, acc :  0.9714, batch_idx : 120
+[Run 0, Task 3, Epoch 37] [Validate] Accuracy :  0.529 Loss :   3.2
+[Run 0, Task 3, Epoch 38] [Training] loss :  0.078054131, acc :  0.9767, batch_idx : 120
+[Run 0, Task 3, Epoch 38] [Validate] Accuracy :  0.532 Loss :  3.443
+[Run 0, Task 3, Epoch 39] [Training] loss :  0.083141395, acc :  0.9749, batch_idx : 120
+[Run 0, Task 3, Epoch 39] [Validate] Accuracy :  0.509 Loss :  3.415
+[Run 0, Task 3, Epoch 40] [Training] loss :  0.079779932, acc :  0.9754, batch_idx : 120
+[Run 0, Task 3, Epoch 40] [Validate] Accuracy :  0.493 Loss :  3.329
+[Run 0, Task 3, Epoch 41] [Training] loss :  0.10583881, acc :  0.9666, batch_idx : 120
+[Run 0, Task 3, Epoch 41] [Validate] Accuracy :  0.482 Loss :  3.349
+[Run 0, Task 3, Epoch 42] [Training] loss :  0.076382049, acc :  0.9767, batch_idx : 120
+[Run 0, Task 3, Epoch 42] [Validate] Accuracy :  0.494 Loss :  3.541
+[Run 0, Task 3, Epoch 43] [Training] loss :  0.071655216, acc :  0.9784, batch_idx : 120
+[Run 0, Task 3, Epoch 43] [Validate] Accuracy :  0.505 Loss :  3.418
+[Run 0, Task 3, Epoch 44] [Training] loss :  0.048733542, acc :  0.9873, batch_idx : 120
+[Run 0, Task 3, Epoch 44] [Validate] Accuracy :  0.492 Loss :  3.992
+[Run 0, Task 3, Epoch 45] [Training] loss :  0.040570269, acc :  0.9884, batch_idx : 120
+[Run 0, Task 3, Epoch 45] [Validate] Accuracy :  0.501 Loss :  3.982
+[Run 0, Task 3, Epoch 46] [Training] loss :  0.044429512, acc :  0.9871, batch_idx : 120
+[Run 0, Task 3, Epoch 46] [Validate] Accuracy :  0.514 Loss :  3.837
+[Run 0, Task 3, Epoch 47] [Training] loss :  0.077644953, acc :  0.9752, batch_idx : 120
+[Run 0, Task 3, Epoch 47] [Validate] Accuracy :  0.504 Loss :  3.481
+[Run 0, Task 3, Epoch 48] [Training] loss :  0.084032701, acc :  0.972, batch_idx : 120
+[Run 0, Task 3, Epoch 48] [Validate] Accuracy :  0.497 Loss :  3.649
+[Run 0, Task 3, Epoch 49] [Training] loss :  0.066425756, acc :  0.9783, batch_idx : 120
+[Run 0, Task 3, Epoch 49] [Validate] Accuracy :  0.487 Loss :  3.629
+[Run 0, Task 3, Epoch 50] [Training] loss :  0.053511987, acc :  0.9849, batch_idx : 120
+[Run 0, Task 3, Epoch 50] [Validate] Accuracy :  0.512 Loss :  3.842
+[Run 0, Task 3, Epoch 51] [Training] loss :  0.03714354, acc :  0.9886, batch_idx : 120
+[Run 0, Task 3, Epoch 51] [Validate] Accuracy :  0.498 Loss :  4.151
+[Run 0, Task 3, Epoch 52] [Training] loss :  0.03999383, acc :  0.9877, batch_idx : 120
+[Run 0, Task 3, Epoch 52] [Validate] Accuracy :  0.51 Loss :  4.166
+[Run 0, Task 3, Epoch 53] [Training] loss :  0.054872672, acc :  0.9834, batch_idx : 120
+[Run 0, Task 3, Epoch 53] [Validate] Accuracy :  0.494 Loss :  3.904
+[Run 0, Task 3, Epoch 54] [Training] loss :  0.085241282, acc :  0.9763, batch_idx : 120
+[Run 0, Task 3, Epoch 54] [Validate] Accuracy :  0.51 Loss :  3.332
+[Run 0, Task 3, Epoch 55] [Training] loss :  0.080417889, acc :  0.9751, batch_idx : 120
+[Run 0, Task 3, Epoch 55] [Validate] Accuracy :  0.521 Loss :  3.644
+[Run 0, Task 3, Epoch 56] [Training] loss :  0.053673833, acc :  0.9837, batch_idx : 120
+[Run 0, Task 3, Epoch 56] [Validate] Accuracy :  0.508 Loss :  3.94
+[Run 0, Task 3, Epoch 57] [Training] loss :  0.052060158, acc :  0.9837, batch_idx : 120
+[Run 0, Task 3, Epoch 57] [Validate] Accuracy :  0.523 Loss :  4.209
+[Run 0, Task 3, Epoch 58] [Training] loss :  0.074957524, acc :  0.9774, batch_idx : 120
+[Run 0, Task 3, Epoch 58] [Validate] Accuracy :  0.511 Loss :  3.77
+[Run 0, Task 3, Epoch 59] [Training] loss :  0.058223515, acc :  0.9809, batch_idx : 120
+[Run 0, Task 3, Epoch 59] [Validate] Accuracy :  0.512 Loss :  3.93
+[Run 0, Task 3, Epoch 60] [Training] loss :  0.037916947, acc :  0.9897, batch_idx : 120
+[Run 0, Task 3, Epoch 60] [Validate] Accuracy :  0.515 Loss :  4.119
+[Run 0, Task 3, Epoch 61] [Training] loss :  0.033824723, acc :  0.9894, batch_idx : 120
+[Run 0, Task 3, Epoch 61] [Validate] Accuracy :  0.522 Loss :  4.357
+[Run 0, Task 3] Early Stopping at Epoch 62, Valid Accuracy :  0.534
+[Run 0, Task 3, Epoch 62] [Test] Accuracy :  0.513
+[Run 1, Task 3, Epoch 0] [Training] loss :   1.820671, acc :  0.1998, batch_idx : 120
+[Run 1, Task 3, Epoch 0] [Validate] Accuracy :  0.162 Loss :  1.712
+[Run 1, Task 3, Epoch 1] [Training] loss :  1.6608725, acc :  0.2117, batch_idx : 120
+[Run 1, Task 3, Epoch 1] [Validate] Accuracy :  0.174 Loss :  1.672
+[Run 1, Task 3, Epoch 2] [Training] loss :  1.6376131, acc :  0.2162, batch_idx : 120
+[Run 1, Task 3, Epoch 2] [Validate] Accuracy :  0.249 Loss :  1.602
+[Run 1, Task 3, Epoch 3] [Training] loss :  1.5863902, acc :  0.2698, batch_idx : 120
+[Run 1, Task 3, Epoch 3] [Validate] Accuracy :  0.332 Loss :  1.538
+[Run 1, Task 3, Epoch 4] [Training] loss :  1.3492342, acc :  0.4498, batch_idx : 120
+[Run 1, Task 3, Epoch 4] [Validate] Accuracy :  0.489 Loss :  1.332
+[Run 1, Task 3, Epoch 5] [Training] loss :  1.1324947, acc :  0.5446, batch_idx : 120
+[Run 1, Task 3, Epoch 5] [Validate] Accuracy :  0.505 Loss :  1.224
+[Run 1, Task 3, Epoch 6] [Training] loss :  1.0394457, acc :  0.5853, batch_idx : 120
+[Run 1, Task 3, Epoch 6] [Validate] Accuracy :  0.556 Loss :  1.102
+[Run 1, Task 3, Epoch 7] [Training] loss :  0.96803563, acc :  0.6237, batch_idx : 120
+[Run 1, Task 3, Epoch 7] [Validate] Accuracy :  0.528 Loss :  1.153
+[Run 1, Task 3, Epoch 8] [Training] loss :  0.90247235, acc :  0.6474, batch_idx : 120
+[Run 1, Task 3, Epoch 8] [Validate] Accuracy :  0.514 Loss :  1.206
+[Run 1, Task 3, Epoch 9] [Training] loss :  0.83730573, acc :  0.6773, batch_idx : 120
+[Run 1, Task 3, Epoch 9] [Validate] Accuracy :  0.525 Loss :  1.241
+[Run 1, Task 3, Epoch 10] [Training] loss :  0.76346704, acc :  0.7064, batch_idx : 120
+[Run 1, Task 3, Epoch 10] [Validate] Accuracy :  0.531 Loss :  1.276
+[Run 1, Task 3, Epoch 11] [Training] loss :  0.71335479, acc :  0.7318, batch_idx : 120
+[Run 1, Task 3, Epoch 11] [Validate] Accuracy :  0.501 Loss :  1.405
+[Run 1, Task 3, Epoch 12] [Training] loss :  0.63294731, acc :  0.7653, batch_idx : 120
+[Run 1, Task 3, Epoch 12] [Validate] Accuracy :  0.531 Loss :  1.469
+[Run 1, Task 3, Epoch 13] [Training] loss :  0.5670246, acc :  0.7966, batch_idx : 120
+[Run 1, Task 3, Epoch 13] [Validate] Accuracy :  0.519 Loss :  1.614
+[Run 1, Task 3, Epoch 14] [Training] loss :  0.51369998, acc :  0.8164, batch_idx : 120
+[Run 1, Task 3, Epoch 14] [Validate] Accuracy :  0.531 Loss :  1.577
+[Run 1, Task 3, Epoch 15] [Training] loss :  0.4392376, acc :  0.8491, batch_idx : 120
+[Run 1, Task 3, Epoch 15] [Validate] Accuracy :  0.529 Loss :  1.663
+[Run 1, Task 3, Epoch 16] [Training] loss :  0.42664544, acc :  0.8522, batch_idx : 120
+[Run 1, Task 3, Epoch 16] [Validate] Accuracy :  0.511 Loss :  1.766
+[Run 1, Task 3, Epoch 17] [Training] loss :  0.35966125, acc :  0.8779, batch_idx : 120
+[Run 1, Task 3, Epoch 17] [Validate] Accuracy :  0.487 Loss :  1.927
+[Run 1, Task 3, Epoch 18] [Training] loss :  0.32258367, acc :  0.8933, batch_idx : 120
+[Run 1, Task 3, Epoch 18] [Validate] Accuracy :  0.529 Loss :  1.789
+[Run 1, Task 3, Epoch 19] [Training] loss :  0.28387957, acc :  0.9043, batch_idx : 120
+[Run 1, Task 3, Epoch 19] [Validate] Accuracy :  0.518 Loss :  2.216
+[Run 1, Task 3, Epoch 20] [Training] loss :  0.27363093, acc :  0.9077, batch_idx : 120
+[Run 1, Task 3, Epoch 20] [Validate] Accuracy :  0.495 Loss :  2.212
+[Run 1, Task 3, Epoch 21] [Training] loss :    0.24786, acc :  0.9191, batch_idx : 120
+[Run 1, Task 3, Epoch 21] [Validate] Accuracy :  0.514 Loss :  2.151
+[Run 1, Task 3, Epoch 22] [Training] loss :  0.23491323, acc :  0.9211, batch_idx : 120
+[Run 1, Task 3, Epoch 22] [Validate] Accuracy :   0.5 Loss :  2.265
+[Run 1, Task 3, Epoch 23] [Training] loss :  0.19710754, acc :  0.935, batch_idx : 120
+[Run 1, Task 3, Epoch 23] [Validate] Accuracy :  0.488 Loss :  2.715
+[Run 1, Task 3, Epoch 24] [Training] loss :  0.17288226, acc :  0.9448, batch_idx : 120
+[Run 1, Task 3, Epoch 24] [Validate] Accuracy :  0.503 Loss :  2.534
+[Run 1, Task 3, Epoch 25] [Training] loss :  0.16419212, acc :  0.9473, batch_idx : 120
+[Run 1, Task 3, Epoch 25] [Validate] Accuracy :  0.475 Loss :  2.849
+[Run 1, Task 3, Epoch 26] [Training] loss :  0.16691604, acc :  0.9468, batch_idx : 120
+[Run 1, Task 3, Epoch 26] [Validate] Accuracy :  0.502 Loss :  2.77
+[Run 1, Task 3, Epoch 27] [Training] loss :  0.17416654, acc :  0.9434, batch_idx : 120
+[Run 1, Task 3, Epoch 27] [Validate] Accuracy :  0.488 Loss :  2.592
+[Run 1, Task 3, Epoch 28] [Training] loss :  0.14850644, acc :  0.9533, batch_idx : 120
+[Run 1, Task 3, Epoch 28] [Validate] Accuracy :  0.498 Loss :  2.617
+[Run 1, Task 3, Epoch 29] [Training] loss :  0.11491021, acc :  0.9644, batch_idx : 120
+[Run 1, Task 3, Epoch 29] [Validate] Accuracy :  0.48 Loss :  2.919
+[Run 1, Task 3, Epoch 30] [Training] loss :  0.099643875, acc :  0.968, batch_idx : 120
+[Run 1, Task 3, Epoch 30] [Validate] Accuracy :  0.486 Loss :  2.966
+[Run 1, Task 3, Epoch 31] [Training] loss :  0.12013404, acc :  0.9613, batch_idx : 120
+[Run 1, Task 3, Epoch 31] [Validate] Accuracy :   0.5 Loss :  3.066
+[Run 1, Task 3, Epoch 32] [Training] loss :  0.12240755, acc :  0.9597, batch_idx : 120
+[Run 1, Task 3, Epoch 32] [Validate] Accuracy :  0.498 Loss :  3.005
+[Run 1, Task 3, Epoch 33] [Training] loss :  0.12265874, acc :  0.9596, batch_idx : 120
+[Run 1, Task 3, Epoch 33] [Validate] Accuracy :   0.5 Loss :  3.055
+[Run 1, Task 3, Epoch 34] [Training] loss :  0.094317618, acc :  0.9672, batch_idx : 120
+[Run 1, Task 3, Epoch 34] [Validate] Accuracy :  0.51 Loss :  3.105
+[Run 1, Task 3, Epoch 35] [Training] loss :  0.073321439, acc :  0.9754, batch_idx : 120
+[Run 1, Task 3, Epoch 35] [Validate] Accuracy :  0.519 Loss :  3.293
+[Run 1, Task 3, Epoch 36] [Training] loss :  0.051170927, acc :  0.9842, batch_idx : 120
+[Run 1, Task 3, Epoch 36] [Validate] Accuracy :  0.518 Loss :  3.56
+[Run 1, Task 3, Epoch 37] [Training] loss :  0.037008585, acc :  0.9901, batch_idx : 120
+[Run 1, Task 3, Epoch 37] [Validate] Accuracy :  0.506 Loss :  3.966
+[Run 1, Task 3, Epoch 38] [Training] loss :  0.075723876, acc :  0.9764, batch_idx : 120
+[Run 1, Task 3, Epoch 38] [Validate] Accuracy :  0.506 Loss :  3.444
+[Run 1, Task 3, Epoch 39] [Training] loss :  0.099737109, acc :  0.968, batch_idx : 120
+[Run 1, Task 3, Epoch 39] [Validate] Accuracy :  0.497 Loss :  3.707
+[Run 1, Task 3, Epoch 40] [Training] loss :  0.084176767, acc :  0.9733, batch_idx : 120
+[Run 1, Task 3, Epoch 40] [Validate] Accuracy :  0.49 Loss :  3.305
+[Run 1, Task 3, Epoch 41] [Training] loss :  0.064260932, acc :  0.9804, batch_idx : 120
+[Run 1, Task 3, Epoch 41] [Validate] Accuracy :  0.502 Loss :  3.847
+[Run 1, Task 3, Epoch 42] [Training] loss :  0.067732922, acc :  0.9781, batch_idx : 120
+[Run 1, Task 3, Epoch 42] [Validate] Accuracy :  0.478 Loss :  3.744
+[Run 1, Task 3, Epoch 43] [Training] loss :  0.097458356, acc :  0.9712, batch_idx : 120
+[Run 1, Task 3, Epoch 43] [Validate] Accuracy :  0.493 Loss :  3.146
+[Run 1, Task 3, Epoch 44] [Training] loss :  0.16394346, acc :  0.9462, batch_idx : 120
+[Run 1, Task 3, Epoch 44] [Validate] Accuracy :  0.491 Loss :  3.057
+[Run 1, Task 3, Epoch 45] [Training] loss :  0.06904783, acc :  0.9789, batch_idx : 120
+[Run 1, Task 3, Epoch 45] [Validate] Accuracy :  0.506 Loss :  3.356
+[Run 1, Task 3, Epoch 46] [Training] loss :  0.045496546, acc :  0.9859, batch_idx : 120
+[Run 1, Task 3, Epoch 46] [Validate] Accuracy :  0.503 Loss :  3.793
+[Run 1, Task 3, Epoch 47] [Training] loss :  0.077314646, acc :  0.9737, batch_idx : 120
+[Run 1, Task 3, Epoch 47] [Validate] Accuracy :  0.485 Loss :  3.547
+[Run 1, Task 3, Epoch 48] [Training] loss :  0.041677911, acc :  0.9877, batch_idx : 120
+[Run 1, Task 3, Epoch 48] [Validate] Accuracy :  0.506 Loss :  3.758
+[Run 1, Task 3, Epoch 49] [Training] loss :  0.027030794, acc :  0.9922, batch_idx : 120
+[Run 1, Task 3, Epoch 49] [Validate] Accuracy :  0.497 Loss :  4.209
+[Run 1, Task 3, Epoch 50] [Training] loss :  0.026724758, acc :  0.993, batch_idx : 120
+[Run 1, Task 3, Epoch 50] [Validate] Accuracy :  0.503 Loss :  4.161
+[Run 1, Task 3, Epoch 51] [Training] loss :  0.027719046, acc :  0.9914, batch_idx : 120
+[Run 1, Task 3, Epoch 51] [Validate] Accuracy :  0.513 Loss :  4.043
+[Run 1, Task 3, Epoch 52] [Training] loss :  0.045876745, acc :  0.9868, batch_idx : 120
+[Run 1, Task 3, Epoch 52] [Validate] Accuracy :  0.488 Loss :  3.905
+[Run 1, Task 3, Epoch 53] [Training] loss :  0.091969003, acc :  0.9711, batch_idx : 120
+[Run 1, Task 3, Epoch 53] [Validate] Accuracy :  0.509 Loss :  3.575
+[Run 1, Task 3, Epoch 54] [Training] loss :  0.060451413, acc :  0.978, batch_idx : 120
+[Run 1, Task 3, Epoch 54] [Validate] Accuracy :  0.483 Loss :  3.949
+[Run 1, Task 3, Epoch 55] [Training] loss :  0.067044663, acc :  0.9788, batch_idx : 120
+[Run 1, Task 3, Epoch 55] [Validate] Accuracy :  0.487 Loss :  3.708
+[Run 1, Task 3, Epoch 56] [Training] loss :  0.061517919, acc :  0.9812, batch_idx : 120
+[Run 1, Task 3, Epoch 56] [Validate] Accuracy :  0.488 Loss :  3.761
+[Run 1, Task 3] Early Stopping at Epoch 57, Valid Accuracy :  0.556
+[Run 1, Task 3, Epoch 57] [Test] Accuracy :  0.52
+[Run 2, Task 3, Epoch 0] [Training] loss :  1.8355342, acc :  0.1986, batch_idx : 120
+[Run 2, Task 3, Epoch 0] [Validate] Accuracy :  0.21 Loss :  1.667
+[Run 2, Task 3, Epoch 1] [Training] loss :  1.6603646, acc :  0.2077, batch_idx : 120
+[Run 2, Task 3, Epoch 1] [Validate] Accuracy :  0.194 Loss :  1.661
+[Run 2, Task 3, Epoch 2] [Training] loss :  1.6420145, acc :  0.2133, batch_idx : 120
+[Run 2, Task 3, Epoch 2] [Validate] Accuracy :  0.204 Loss :  1.651
+[Run 2, Task 3, Epoch 3] [Training] loss :  1.6172869, acc :  0.2347, batch_idx : 120
+[Run 2, Task 3, Epoch 3] [Validate] Accuracy :  0.256 Loss :  1.596
+[Run 2, Task 3, Epoch 4] [Training] loss :  1.5559979, acc :  0.2976, batch_idx : 120
+[Run 2, Task 3, Epoch 4] [Validate] Accuracy :  0.35 Loss :  1.49
+[Run 2, Task 3, Epoch 5] [Training] loss :  1.3256724, acc :  0.4522, batch_idx : 120
+[Run 2, Task 3, Epoch 5] [Validate] Accuracy :  0.49 Loss :  1.318
+[Run 2, Task 3, Epoch 6] [Training] loss :  1.1434216, acc :  0.5543, batch_idx : 120
+[Run 2, Task 3, Epoch 6] [Validate] Accuracy :  0.52 Loss :  1.233
+[Run 2, Task 3, Epoch 7] [Training] loss :  1.0563803, acc :  0.5817, batch_idx : 120
+[Run 2, Task 3, Epoch 7] [Validate] Accuracy :  0.538 Loss :  1.139
+[Run 2, Task 3, Epoch 8] [Training] loss :   0.979696, acc :  0.6196, batch_idx : 120
+[Run 2, Task 3, Epoch 8] [Validate] Accuracy :  0.536 Loss :  1.175
+[Run 2, Task 3, Epoch 9] [Training] loss :  0.91280081, acc :  0.6417, batch_idx : 120
+[Run 2, Task 3, Epoch 9] [Validate] Accuracy :  0.553 Loss :  1.163
+[Run 2, Task 3, Epoch 10] [Training] loss :  0.85107239, acc :  0.6713, batch_idx : 120
+[Run 2, Task 3, Epoch 10] [Validate] Accuracy :  0.534 Loss :  1.172
+[Run 2, Task 3, Epoch 11] [Training] loss :  0.79130805, acc :  0.701, batch_idx : 120
+[Run 2, Task 3, Epoch 11] [Validate] Accuracy :  0.519 Loss :  1.31
+[Run 2, Task 3, Epoch 12] [Training] loss :  0.72049394, acc :  0.7316, batch_idx : 120
+[Run 2, Task 3, Epoch 12] [Validate] Accuracy :  0.516 Loss :  1.382
+[Run 2, Task 3, Epoch 13] [Training] loss :  0.65509816, acc :  0.7639, batch_idx : 120
+[Run 2, Task 3, Epoch 13] [Validate] Accuracy :  0.493 Loss :  1.412
+[Run 2, Task 3, Epoch 14] [Training] loss :  0.5834482, acc :  0.7904, batch_idx : 120
+[Run 2, Task 3, Epoch 14] [Validate] Accuracy :  0.527 Loss :  1.458
+[Run 2, Task 3, Epoch 15] [Training] loss :  0.53343981, acc :  0.8103, batch_idx : 120
+[Run 2, Task 3, Epoch 15] [Validate] Accuracy :  0.528 Loss :  1.389
+[Run 2, Task 3, Epoch 16] [Training] loss :  0.4609412, acc :  0.8416, batch_idx : 120
+[Run 2, Task 3, Epoch 16] [Validate] Accuracy :  0.515 Loss :  1.645
+[Run 2, Task 3, Epoch 17] [Training] loss :  0.41612696, acc :  0.8567, batch_idx : 120
+[Run 2, Task 3, Epoch 17] [Validate] Accuracy :  0.518 Loss :  1.728
+[Run 2, Task 3, Epoch 18] [Training] loss :  0.3614473, acc :  0.8753, batch_idx : 120
+[Run 2, Task 3, Epoch 18] [Validate] Accuracy :  0.504 Loss :  1.677
+[Run 2, Task 3, Epoch 19] [Training] loss :  0.34220163, acc :  0.8816, batch_idx : 120
+[Run 2, Task 3, Epoch 19] [Validate] Accuracy :  0.508 Loss :  1.776
+[Run 2, Task 3, Epoch 20] [Training] loss :  0.30424952, acc :  0.9012, batch_idx : 120
+[Run 2, Task 3, Epoch 20] [Validate] Accuracy :  0.51 Loss :  1.971
+[Run 2, Task 3, Epoch 21] [Training] loss :  0.29507841, acc :  0.9041, batch_idx : 120
+[Run 2, Task 3, Epoch 21] [Validate] Accuracy :  0.525 Loss :  1.814
+[Run 2, Task 3, Epoch 22] [Training] loss :  0.27494236, acc :  0.9094, batch_idx : 120
+[Run 2, Task 3, Epoch 22] [Validate] Accuracy :  0.515 Loss :  1.943
+[Run 2, Task 3, Epoch 23] [Training] loss :  0.24189643, acc :  0.9196, batch_idx : 120
+[Run 2, Task 3, Epoch 23] [Validate] Accuracy :  0.503 Loss :  2.201
+[Run 2, Task 3, Epoch 24] [Training] loss :  0.2057519, acc :  0.9353, batch_idx : 120
+[Run 2, Task 3, Epoch 24] [Validate] Accuracy :  0.512 Loss :  2.249
+[Run 2, Task 3, Epoch 25] [Training] loss :  0.18558972, acc :  0.9384, batch_idx : 120
+[Run 2, Task 3, Epoch 25] [Validate] Accuracy :  0.484 Loss :  2.475
+[Run 2, Task 3, Epoch 26] [Training] loss :  0.15378459, acc :  0.9531, batch_idx : 120
+[Run 2, Task 3, Epoch 26] [Validate] Accuracy :  0.51 Loss :  2.526
+[Run 2, Task 3, Epoch 27] [Training] loss :  0.19036631, acc :  0.938, batch_idx : 120
+[Run 2, Task 3, Epoch 27] [Validate] Accuracy :  0.492 Loss :  2.358
+[Run 2, Task 3, Epoch 28] [Training] loss :  0.16182728, acc :  0.947, batch_idx : 120
+[Run 2, Task 3, Epoch 28] [Validate] Accuracy :  0.493 Loss :  2.368
+[Run 2, Task 3, Epoch 29] [Training] loss :  0.1320906, acc :  0.9577, batch_idx : 120
+[Run 2, Task 3, Epoch 29] [Validate] Accuracy :  0.504 Loss :  2.754
+[Run 2, Task 3, Epoch 30] [Training] loss :  0.12222894, acc :  0.959, batch_idx : 120
+[Run 2, Task 3, Epoch 30] [Validate] Accuracy :  0.518 Loss :  2.691
+[Run 2, Task 3, Epoch 31] [Training] loss :  0.094599647, acc :  0.9718, batch_idx : 120
+[Run 2, Task 3, Epoch 31] [Validate] Accuracy :  0.513 Loss :  2.825
+[Run 2, Task 3, Epoch 32] [Training] loss :  0.083670953, acc :  0.9744, batch_idx : 120
+[Run 2, Task 3, Epoch 32] [Validate] Accuracy :  0.503 Loss :  2.921
+[Run 2, Task 3, Epoch 33] [Training] loss :  0.11818197, acc :  0.9621, batch_idx : 120
+[Run 2, Task 3, Epoch 33] [Validate] Accuracy :  0.486 Loss :  2.922
+[Run 2, Task 3, Epoch 34] [Training] loss :  0.12498424, acc :  0.959, batch_idx : 120
+[Run 2, Task 3, Epoch 34] [Validate] Accuracy :  0.53 Loss :  2.812
+[Run 2, Task 3, Epoch 35] [Training] loss :  0.12506337, acc :  0.9601, batch_idx : 120
+[Run 2, Task 3, Epoch 35] [Validate] Accuracy :  0.493 Loss :  2.969
+[Run 2, Task 3, Epoch 36] [Training] loss :  0.073837961, acc :  0.9761, batch_idx : 120
+[Run 2, Task 3, Epoch 36] [Validate] Accuracy :  0.502 Loss :  3.12
+[Run 2, Task 3, Epoch 37] [Training] loss :  0.10871531, acc :  0.9644, batch_idx : 120
+[Run 2, Task 3, Epoch 37] [Validate] Accuracy :  0.505 Loss :  2.967
+[Run 2, Task 3, Epoch 38] [Training] loss :  0.10677926, acc :  0.965, batch_idx : 120
+[Run 2, Task 3, Epoch 38] [Validate] Accuracy :  0.505 Loss :  3.241
+[Run 2, Task 3, Epoch 39] [Training] loss :  0.083499231, acc :  0.9732, batch_idx : 120
+[Run 2, Task 3, Epoch 39] [Validate] Accuracy :  0.513 Loss :  3.248
+[Run 2, Task 3, Epoch 40] [Training] loss :  0.060320341, acc :  0.9814, batch_idx : 120
+[Run 2, Task 3, Epoch 40] [Validate] Accuracy :  0.523 Loss :  3.453
+[Run 2, Task 3, Epoch 41] [Training] loss :  0.058504124, acc :  0.9808, batch_idx : 120
+[Run 2, Task 3, Epoch 41] [Validate] Accuracy :  0.503 Loss :  3.628
+[Run 2, Task 3, Epoch 42] [Training] loss :  0.050309993, acc :  0.9871, batch_idx : 120
+[Run 2, Task 3, Epoch 42] [Validate] Accuracy :  0.509 Loss :  3.434
+[Run 2, Task 3, Epoch 43] [Training] loss :  0.069000202, acc :  0.9798, batch_idx : 120
+[Run 2, Task 3, Epoch 43] [Validate] Accuracy :  0.519 Loss :  3.431
+[Run 2, Task 3, Epoch 44] [Training] loss :  0.07216568, acc :  0.9781, batch_idx : 120
+[Run 2, Task 3, Epoch 44] [Validate] Accuracy :  0.51 Loss :  3.553
+[Run 2, Task 3, Epoch 45] [Training] loss :  0.073986774, acc :  0.9759, batch_idx : 120
+[Run 2, Task 3, Epoch 45] [Validate] Accuracy :  0.509 Loss :  3.488
+[Run 2, Task 3, Epoch 46] [Training] loss :  0.051231341, acc :  0.9841, batch_idx : 120
+[Run 2, Task 3, Epoch 46] [Validate] Accuracy :  0.513 Loss :   3.5
+[Run 2, Task 3, Epoch 47] [Training] loss :  0.054964797, acc :  0.9821, batch_idx : 120
+[Run 2, Task 3, Epoch 47] [Validate] Accuracy :  0.513 Loss :  3.554
+[Run 2, Task 3, Epoch 48] [Training] loss :  0.062532204, acc :  0.9797, batch_idx : 120
+[Run 2, Task 3, Epoch 48] [Validate] Accuracy :  0.521 Loss :  3.642
+[Run 2, Task 3, Epoch 49] [Training] loss :  0.058261973, acc :  0.982, batch_idx : 120
+[Run 2, Task 3, Epoch 49] [Validate] Accuracy :  0.521 Loss :  3.648
+[Run 2, Task 3, Epoch 50] [Training] loss :  0.08150975, acc :  0.9757, batch_idx : 120
+[Run 2, Task 3, Epoch 50] [Validate] Accuracy :  0.517 Loss :  3.379
+[Run 2, Task 3, Epoch 51] [Training] loss :  0.041839689, acc :  0.9873, batch_idx : 120
+[Run 2, Task 3, Epoch 51] [Validate] Accuracy :  0.501 Loss :  3.988
+[Run 2, Task 3, Epoch 52] [Training] loss :  0.023266604, acc :  0.9933, batch_idx : 120
+[Run 2, Task 3, Epoch 52] [Validate] Accuracy :  0.489 Loss :  4.128
+[Run 2, Task 3, Epoch 53] [Training] loss :  0.041938849, acc :  0.9882, batch_idx : 120
+[Run 2, Task 3, Epoch 53] [Validate] Accuracy :  0.534 Loss :  3.685
+[Run 2, Task 3, Epoch 54] [Training] loss :  0.071369751, acc :  0.9763, batch_idx : 120
+[Run 2, Task 3, Epoch 54] [Validate] Accuracy :  0.496 Loss :  3.672
+[Run 2, Task 3, Epoch 55] [Training] loss :  0.067796565, acc :  0.9786, batch_idx : 120
+[Run 2, Task 3, Epoch 55] [Validate] Accuracy :  0.523 Loss :  3.635
+[Run 2, Task 3, Epoch 56] [Training] loss :  0.041305387, acc :  0.9878, batch_idx : 120
+[Run 2, Task 3, Epoch 56] [Validate] Accuracy :  0.518 Loss :  3.998
+[Run 2, Task 3, Epoch 57] [Training] loss :  0.046074595, acc :  0.9844, batch_idx : 120
+[Run 2, Task 3, Epoch 57] [Validate] Accuracy :  0.507 Loss :  4.038
+[Run 2, Task 3, Epoch 58] [Training] loss :  0.062464399, acc :  0.9819, batch_idx : 120
+[Run 2, Task 3, Epoch 58] [Validate] Accuracy :  0.502 Loss :  3.843
+[Run 2, Task 3, Epoch 59] [Training] loss :  0.050149284, acc :  0.9833, batch_idx : 120
+[Run 2, Task 3, Epoch 59] [Validate] Accuracy :  0.513 Loss :  3.944
+[Run 2, Task 3] Early Stopping at Epoch 60, Valid Accuracy :  0.553
+[Run 2, Task 3, Epoch 60] [Test] Accuracy :  0.53
+[Run 3, Task 3, Epoch 0] [Training] loss :  1.8614796, acc :  0.2001, batch_idx : 120
+[Run 3, Task 3, Epoch 0] [Validate] Accuracy :  0.204 Loss :  1.684
+[Run 3, Task 3, Epoch 1] [Training] loss :  1.6704768, acc :  0.2047, batch_idx : 120
+[Run 3, Task 3, Epoch 1] [Validate] Accuracy :  0.183 Loss :  1.678
+[Run 3, Task 3, Epoch 2] [Training] loss :  1.6405318, acc :  0.2108, batch_idx : 120
+[Run 3, Task 3, Epoch 2] [Validate] Accuracy :  0.206 Loss :  1.683
+[Run 3, Task 3, Epoch 3] [Training] loss :  1.6448392, acc :  0.207, batch_idx : 120
+[Run 3, Task 3, Epoch 3] [Validate] Accuracy :  0.201 Loss :  1.653
+[Run 3, Task 3, Epoch 4] [Training] loss :  1.6323125, acc :  0.2073, batch_idx : 120
+[Run 3, Task 3, Epoch 4] [Validate] Accuracy :  0.172 Loss :  1.643
+[Run 3, Task 3, Epoch 5] [Training] loss :  1.6216537, acc :  0.2241, batch_idx : 120
+[Run 3, Task 3, Epoch 5] [Validate] Accuracy :  0.216 Loss :  1.698
+[Run 3, Task 3, Epoch 6] [Training] loss :  1.6065528, acc :  0.2394, batch_idx : 120
+[Run 3, Task 3, Epoch 6] [Validate] Accuracy :  0.189 Loss :  1.677
+[Run 3, Task 3, Epoch 7] [Training] loss :  1.5712529, acc :  0.2691, batch_idx : 120
+[Run 3, Task 3, Epoch 7] [Validate] Accuracy :  0.341 Loss :  1.528
+[Run 3, Task 3, Epoch 8] [Training] loss :  1.4629758, acc :  0.3622, batch_idx : 120
+[Run 3, Task 3, Epoch 8] [Validate] Accuracy :  0.363 Loss :  1.444
+[Run 3, Task 3, Epoch 9] [Training] loss :  1.3044288, acc :  0.4657, batch_idx : 120
+[Run 3, Task 3, Epoch 9] [Validate] Accuracy :  0.462 Loss :  1.351
+[Run 3, Task 3, Epoch 10] [Training] loss :  1.1559505, acc :  0.5473, batch_idx : 120
+[Run 3, Task 3, Epoch 10] [Validate] Accuracy :  0.488 Loss :  1.256
+[Run 3, Task 3, Epoch 11] [Training] loss :  1.0591839, acc :  0.588, batch_idx : 120
+[Run 3, Task 3, Epoch 11] [Validate] Accuracy :  0.533 Loss :  1.177
+[Run 3, Task 3, Epoch 12] [Training] loss :  0.95665807, acc :  0.6276, batch_idx : 120
+[Run 3, Task 3, Epoch 12] [Validate] Accuracy :  0.528 Loss :  1.114
+[Run 3, Task 3, Epoch 13] [Training] loss :  0.87153424, acc :  0.6618, batch_idx : 120
+[Run 3, Task 3, Epoch 13] [Validate] Accuracy :  0.539 Loss :  1.227
+[Run 3, Task 3, Epoch 14] [Training] loss :  0.80193946, acc :  0.6932, batch_idx : 120
+[Run 3, Task 3, Epoch 14] [Validate] Accuracy :  0.536 Loss :  1.22
+[Run 3, Task 3, Epoch 15] [Training] loss :  0.72322524, acc :  0.7241, batch_idx : 120
+[Run 3, Task 3, Epoch 15] [Validate] Accuracy :  0.543 Loss :  1.222
+[Run 3, Task 3, Epoch 16] [Training] loss :  0.63455124, acc :  0.7672, batch_idx : 120
+[Run 3, Task 3, Epoch 16] [Validate] Accuracy :  0.55 Loss :  1.338
+[Run 3, Task 3, Epoch 17] [Training] loss :  0.55770389, acc :  0.7987, batch_idx : 120
+[Run 3, Task 3, Epoch 17] [Validate] Accuracy :  0.518 Loss :  1.423
+[Run 3, Task 3, Epoch 18] [Training] loss :  0.49902818, acc :  0.8264, batch_idx : 120
+[Run 3, Task 3, Epoch 18] [Validate] Accuracy :  0.563 Loss :  1.362
+[Run 3, Task 3, Epoch 19] [Training] loss :  0.42491844, acc :  0.8538, batch_idx : 120
+[Run 3, Task 3, Epoch 19] [Validate] Accuracy :  0.559 Loss :  1.478
+[Run 3, Task 3, Epoch 20] [Training] loss :  0.39286435, acc :  0.8612, batch_idx : 120
+[Run 3, Task 3, Epoch 20] [Validate] Accuracy :  0.536 Loss :  1.586
+[Run 3, Task 3, Epoch 21] [Training] loss :  0.3379917, acc :  0.884, batch_idx : 120
+[Run 3, Task 3, Epoch 21] [Validate] Accuracy :  0.571 Loss :  1.679
+[Run 3, Task 3, Epoch 22] [Training] loss :  0.30540792, acc :  0.8939, batch_idx : 120
+[Run 3, Task 3, Epoch 22] [Validate] Accuracy :  0.57 Loss :  1.789
+[Run 3, Task 3, Epoch 23] [Training] loss :  0.27732123, acc :  0.9032, batch_idx : 120
+[Run 3, Task 3, Epoch 23] [Validate] Accuracy :  0.553 Loss :  1.878
+[Run 3, Task 3, Epoch 24] [Training] loss :  0.21297362, acc :  0.9267, batch_idx : 120
+[Run 3, Task 3, Epoch 24] [Validate] Accuracy :  0.568 Loss :  2.081
+[Run 3, Task 3, Epoch 25] [Training] loss :  0.21392773, acc :  0.9287, batch_idx : 120
+[Run 3, Task 3, Epoch 25] [Validate] Accuracy :  0.549 Loss :  1.974
+[Run 3, Task 3, Epoch 26] [Training] loss :  0.19739023, acc :  0.9322, batch_idx : 120
+[Run 3, Task 3, Epoch 26] [Validate] Accuracy :  0.543 Loss :  2.126
+[Run 3, Task 3, Epoch 27] [Training] loss :  0.17210793, acc :  0.9443, batch_idx : 120
+[Run 3, Task 3, Epoch 27] [Validate] Accuracy :  0.549 Loss :  2.138
+[Run 3, Task 3, Epoch 28] [Training] loss :  0.15732644, acc :  0.9492, batch_idx : 120
+[Run 3, Task 3, Epoch 28] [Validate] Accuracy :  0.541 Loss :  2.234
+[Run 3, Task 3, Epoch 29] [Training] loss :  0.12976587, acc :  0.9567, batch_idx : 120
+[Run 3, Task 3, Epoch 29] [Validate] Accuracy :  0.555 Loss :  2.413
+[Run 3, Task 3, Epoch 30] [Training] loss :  0.14169704, acc :  0.9566, batch_idx : 120
+[Run 3, Task 3, Epoch 30] [Validate] Accuracy :  0.54 Loss :  2.39
+[Run 3, Task 3, Epoch 31] [Training] loss :  0.13000584, acc :  0.9584, batch_idx : 120
+[Run 3, Task 3, Epoch 31] [Validate] Accuracy :  0.545 Loss :  2.561
+[Run 3, Task 3, Epoch 32] [Training] loss :  0.094042541, acc :  0.9718, batch_idx : 120
+[Run 3, Task 3, Epoch 32] [Validate] Accuracy :  0.545 Loss :  2.792
+[Run 3, Task 3, Epoch 33] [Training] loss :  0.096982029, acc :  0.9711, batch_idx : 120
+[Run 3, Task 3, Epoch 33] [Validate] Accuracy :  0.55 Loss :  2.67
+[Run 3, Task 3, Epoch 34] [Training] loss :  0.11945634, acc :  0.9617, batch_idx : 120
+[Run 3, Task 3, Epoch 34] [Validate] Accuracy :  0.537 Loss :  2.65
+[Run 3, Task 3, Epoch 35] [Training] loss :  0.084504313, acc :  0.9731, batch_idx : 120
+[Run 3, Task 3, Epoch 35] [Validate] Accuracy :  0.55 Loss :  2.96
+[Run 3, Task 3, Epoch 36] [Training] loss :  0.082784273, acc :  0.976, batch_idx : 120
+[Run 3, Task 3, Epoch 36] [Validate] Accuracy :  0.547 Loss :  2.719
+[Run 3, Task 3, Epoch 37] [Training] loss :  0.079311951, acc :  0.9761, batch_idx : 120
+[Run 3, Task 3, Epoch 37] [Validate] Accuracy :  0.549 Loss :  2.869
+[Run 3, Task 3, Epoch 38] [Training] loss :  0.10134915, acc :  0.9674, batch_idx : 120
+[Run 3, Task 3, Epoch 38] [Validate] Accuracy :  0.547 Loss :  2.758
+[Run 3, Task 3, Epoch 39] [Training] loss :  0.10913027, acc :  0.9637, batch_idx : 120
+[Run 3, Task 3, Epoch 39] [Validate] Accuracy :  0.543 Loss :  2.793
+[Run 3, Task 3, Epoch 40] [Training] loss :  0.058732681, acc :  0.9838, batch_idx : 120
+[Run 3, Task 3, Epoch 40] [Validate] Accuracy :  0.555 Loss :  3.001
+[Run 3, Task 3, Epoch 41] [Training] loss :  0.047305047, acc :  0.9854, batch_idx : 120
+[Run 3, Task 3, Epoch 41] [Validate] Accuracy :  0.539 Loss :  3.28
+[Run 3, Task 3, Epoch 42] [Training] loss :  0.046758288, acc :  0.9856, batch_idx : 120
+[Run 3, Task 3, Epoch 42] [Validate] Accuracy :  0.536 Loss :  3.424
+[Run 3, Task 3, Epoch 43] [Training] loss :  0.097083926, acc :  0.9663, batch_idx : 120
+[Run 3, Task 3, Epoch 43] [Validate] Accuracy :  0.545 Loss :  2.75
+[Run 3, Task 3, Epoch 44] [Training] loss :  0.073681277, acc :  0.9766, batch_idx : 120
+[Run 3, Task 3, Epoch 44] [Validate] Accuracy :  0.517 Loss :  3.214
+[Run 3, Task 3, Epoch 45] [Training] loss :  0.053189769, acc :  0.9833, batch_idx : 120
+[Run 3, Task 3, Epoch 45] [Validate] Accuracy :  0.534 Loss :  3.126
+[Run 3, Task 3, Epoch 46] [Training] loss :  0.061605662, acc :  0.9811, batch_idx : 120
+[Run 3, Task 3, Epoch 46] [Validate] Accuracy :  0.532 Loss :  3.237
+[Run 3, Task 3, Epoch 47] [Training] loss :  0.056591683, acc :  0.9829, batch_idx : 120
+[Run 3, Task 3, Epoch 47] [Validate] Accuracy :  0.557 Loss :  3.234
+[Run 3, Task 3, Epoch 48] [Training] loss :  0.062834102, acc :  0.9797, batch_idx : 120
+[Run 3, Task 3, Epoch 48] [Validate] Accuracy :  0.539 Loss :  3.256
+[Run 3, Task 3, Epoch 49] [Training] loss :  0.1040861, acc :  0.9681, batch_idx : 120
+[Run 3, Task 3, Epoch 49] [Validate] Accuracy :  0.533 Loss :  3.144
+[Run 3, Task 3, Epoch 50] [Training] loss :  0.051987542, acc :  0.9851, batch_idx : 120
+[Run 3, Task 3, Epoch 50] [Validate] Accuracy :  0.538 Loss :  3.343
+[Run 3, Task 3, Epoch 51] [Training] loss :  0.038429928, acc :  0.9891, batch_idx : 120
+[Run 3, Task 3, Epoch 51] [Validate] Accuracy :  0.534 Loss :  3.637
+[Run 3, Task 3, Epoch 52] [Training] loss :  0.052443674, acc :  0.9848, batch_idx : 120
+[Run 3, Task 3, Epoch 52] [Validate] Accuracy :  0.549 Loss :  3.608
+[Run 3, Task 3, Epoch 53] [Training] loss :  0.05059028, acc :  0.9848, batch_idx : 120
+[Run 3, Task 3, Epoch 53] [Validate] Accuracy :  0.531 Loss :  3.59
+[Run 3, Task 3, Epoch 54] [Training] loss :  0.026120393, acc :  0.9928, batch_idx : 120
+[Run 3, Task 3, Epoch 54] [Validate] Accuracy :  0.535 Loss :  3.742
+[Run 3, Task 3, Epoch 55] [Training] loss :  0.029406974, acc :  0.9914, batch_idx : 120
+[Run 3, Task 3, Epoch 55] [Validate] Accuracy :  0.528 Loss :  3.536
+[Run 3, Task 3, Epoch 56] [Training] loss :  0.06039237, acc :  0.982, batch_idx : 120
+[Run 3, Task 3, Epoch 56] [Validate] Accuracy :  0.543 Loss :  3.381
+[Run 3, Task 3, Epoch 57] [Training] loss :  0.050378529, acc :  0.9841, batch_idx : 120
+[Run 3, Task 3, Epoch 57] [Validate] Accuracy :  0.545 Loss :  3.409
+[Run 3, Task 3, Epoch 58] [Training] loss :  0.031154476, acc :  0.9917, batch_idx : 120
+[Run 3, Task 3, Epoch 58] [Validate] Accuracy :  0.538 Loss :  3.869
+[Run 3, Task 3, Epoch 59] [Training] loss :  0.059486379, acc :  0.9827, batch_idx : 120
+[Run 3, Task 3, Epoch 59] [Validate] Accuracy :  0.539 Loss :  3.807
+[Run 3, Task 3, Epoch 60] [Training] loss :  0.10017794, acc :  0.9683, batch_idx : 120
+[Run 3, Task 3, Epoch 60] [Validate] Accuracy :  0.549 Loss :  3.012
+[Run 3, Task 3, Epoch 61] [Training] loss :  0.03318793, acc :  0.9892, batch_idx : 120
+[Run 3, Task 3, Epoch 61] [Validate] Accuracy :  0.541 Loss :  3.612
+[Run 3, Task 3, Epoch 62] [Training] loss :  0.025001433, acc :  0.993, batch_idx : 120
+[Run 3, Task 3, Epoch 62] [Validate] Accuracy :  0.539 Loss :  3.602
+[Run 3, Task 3, Epoch 63] [Training] loss :  0.021154909, acc :  0.9947, batch_idx : 120
+[Run 3, Task 3, Epoch 63] [Validate] Accuracy :  0.551 Loss :  3.859
+[Run 3, Task 3, Epoch 64] [Training] loss :  0.021736612, acc :  0.9933, batch_idx : 120
+[Run 3, Task 3, Epoch 64] [Validate] Accuracy :  0.543 Loss :  4.021
+[Run 3, Task 3, Epoch 65] [Training] loss :  0.042459639, acc :  0.9893, batch_idx : 120
+[Run 3, Task 3, Epoch 65] [Validate] Accuracy :  0.557 Loss :  3.55
+[Run 3, Task 3, Epoch 66] [Training] loss :  0.039832673, acc :  0.9866, batch_idx : 120
+[Run 3, Task 3, Epoch 66] [Validate] Accuracy :  0.535 Loss :  3.814
+[Run 3, Task 3, Epoch 67] [Training] loss :  0.049253182, acc :  0.9858, batch_idx : 120
+[Run 3, Task 3, Epoch 67] [Validate] Accuracy :  0.537 Loss :  3.677
+[Run 3, Task 3, Epoch 68] [Training] loss :  0.023185041, acc :  0.9938, batch_idx : 120
+[Run 3, Task 3, Epoch 68] [Validate] Accuracy :  0.536 Loss :  3.893
+[Run 3, Task 3, Epoch 69] [Training] loss :  0.03925355, acc :  0.9873, batch_idx : 120
+[Run 3, Task 3, Epoch 69] [Validate] Accuracy :  0.541 Loss :  3.822
+[Run 3, Task 3, Epoch 70] [Training] loss :  0.048523289, acc :  0.9857, batch_idx : 120
+[Run 3, Task 3, Epoch 70] [Validate] Accuracy :  0.545 Loss :  3.613
+[Run 3, Task 3, Epoch 71] [Training] loss :  0.065614474, acc :  0.9793, batch_idx : 120
+[Run 3, Task 3, Epoch 71] [Validate] Accuracy :  0.535 Loss :  3.32
+[Run 3, Task 3] Early Stopping at Epoch 72, Valid Accuracy :  0.571
+[Run 3, Task 3, Epoch 72] [Test] Accuracy :  0.619
+[Run 4, Task 3, Epoch 0] [Training] loss :   1.827818, acc :  0.2038, batch_idx : 120
+[Run 4, Task 3, Epoch 0] [Validate] Accuracy :  0.152 Loss :  1.727
+[Run 4, Task 3, Epoch 1] [Training] loss :  1.6663848, acc :  0.2104, batch_idx : 120
+[Run 4, Task 3, Epoch 1] [Validate] Accuracy :  0.208 Loss :  1.639
+[Run 4, Task 3, Epoch 2] [Training] loss :  1.6465624, acc :  0.2136, batch_idx : 120
+[Run 4, Task 3, Epoch 2] [Validate] Accuracy :  0.221 Loss :  1.619
+[Run 4, Task 3, Epoch 3] [Training] loss :  1.6364763, acc :  0.2168, batch_idx : 120
+[Run 4, Task 3, Epoch 3] [Validate] Accuracy :  0.211 Loss :  1.632
+[Run 4, Task 3, Epoch 4] [Training] loss :  1.5713408, acc :  0.2764, batch_idx : 120
+[Run 4, Task 3, Epoch 4] [Validate] Accuracy :  0.362 Loss :  1.49
+[Run 4, Task 3, Epoch 5] [Training] loss :  1.3692385, acc :  0.4313, batch_idx : 120
+[Run 4, Task 3, Epoch 5] [Validate] Accuracy :  0.451 Loss :  1.337
+[Run 4, Task 3, Epoch 6] [Training] loss :  1.2470484, acc :  0.4998, batch_idx : 120
+[Run 4, Task 3, Epoch 6] [Validate] Accuracy :  0.543 Loss :  1.194
+[Run 4, Task 3, Epoch 7] [Training] loss :  1.0919323, acc :  0.5716, batch_idx : 120
+[Run 4, Task 3, Epoch 7] [Validate] Accuracy :  0.544 Loss :  1.188
+[Run 4, Task 3, Epoch 8] [Training] loss :  1.0200339, acc :  0.6018, batch_idx : 120
+[Run 4, Task 3, Epoch 8] [Validate] Accuracy :  0.548 Loss :  1.139
+[Run 4, Task 3, Epoch 9] [Training] loss :  0.94285343, acc :  0.6301, batch_idx : 120
+[Run 4, Task 3, Epoch 9] [Validate] Accuracy :  0.534 Loss :  1.156
+[Run 4, Task 3, Epoch 10] [Training] loss :  0.88946702, acc :  0.6569, batch_idx : 120
+[Run 4, Task 3, Epoch 10] [Validate] Accuracy :  0.525 Loss :  1.231
+[Run 4, Task 3, Epoch 11] [Training] loss :  0.81511562, acc :  0.6864, batch_idx : 120
+[Run 4, Task 3, Epoch 11] [Validate] Accuracy :  0.497 Loss :  1.259
+[Run 4, Task 3, Epoch 12] [Training] loss :  0.74035531, acc :  0.715, batch_idx : 120
+[Run 4, Task 3, Epoch 12] [Validate] Accuracy :  0.536 Loss :  1.273
+[Run 4, Task 3, Epoch 13] [Training] loss :   0.665631, acc :  0.7524, batch_idx : 120
+[Run 4, Task 3, Epoch 13] [Validate] Accuracy :  0.506 Loss :  1.378
+[Run 4, Task 3, Epoch 14] [Training] loss :  0.59074116, acc :  0.7802, batch_idx : 120
+[Run 4, Task 3, Epoch 14] [Validate] Accuracy :  0.53 Loss :  1.416
+[Run 4, Task 3, Epoch 15] [Training] loss :  0.54757739, acc :  0.8014, batch_idx : 120
+[Run 4, Task 3, Epoch 15] [Validate] Accuracy :  0.546 Loss :  1.466
+[Run 4, Task 3, Epoch 16] [Training] loss :  0.48519116, acc :  0.8249, batch_idx : 120
+[Run 4, Task 3, Epoch 16] [Validate] Accuracy :  0.527 Loss :  1.478
+[Run 4, Task 3, Epoch 17] [Training] loss :  0.42507433, acc :  0.8483, batch_idx : 120
+[Run 4, Task 3, Epoch 17] [Validate] Accuracy :  0.526 Loss :  1.609
+[Run 4, Task 3, Epoch 18] [Training] loss :  0.37493951, acc :  0.8661, batch_idx : 120
+[Run 4, Task 3, Epoch 18] [Validate] Accuracy :  0.553 Loss :  1.735
+[Run 4, Task 3, Epoch 19] [Training] loss :  0.31505036, acc :  0.8907, batch_idx : 120
+[Run 4, Task 3, Epoch 19] [Validate] Accuracy :  0.532 Loss :  1.825
+[Run 4, Task 3, Epoch 20] [Training] loss :  0.30583859, acc :  0.8988, batch_idx : 120
+[Run 4, Task 3, Epoch 20] [Validate] Accuracy :  0.547 Loss :  1.808
+[Run 4, Task 3, Epoch 21] [Training] loss :  0.27758885, acc :  0.9058, batch_idx : 120
+[Run 4, Task 3, Epoch 21] [Validate] Accuracy :  0.524 Loss :  1.974
+[Run 4, Task 3, Epoch 22] [Training] loss :  0.23328713, acc :  0.9242, batch_idx : 120
+[Run 4, Task 3, Epoch 22] [Validate] Accuracy :  0.561 Loss :  2.111
+[Run 4, Task 3, Epoch 23] [Training] loss :  0.2163262, acc :  0.9283, batch_idx : 120
+[Run 4, Task 3, Epoch 23] [Validate] Accuracy :  0.525 Loss :  2.003
+[Run 4, Task 3, Epoch 24] [Training] loss :  0.18417759, acc :  0.9446, batch_idx : 120
+[Run 4, Task 3, Epoch 24] [Validate] Accuracy :  0.546 Loss :  2.086
+[Run 4, Task 3, Epoch 25] [Training] loss :  0.17979373, acc :  0.944, batch_idx : 120
+[Run 4, Task 3, Epoch 25] [Validate] Accuracy :  0.547 Loss :  2.157
+[Run 4, Task 3, Epoch 26] [Training] loss :  0.16256011, acc :  0.9468, batch_idx : 120
+[Run 4, Task 3, Epoch 26] [Validate] Accuracy :  0.551 Loss :  2.285
+[Run 4, Task 3, Epoch 27] [Training] loss :  0.14086944, acc :  0.9572, batch_idx : 120
+[Run 4, Task 3, Epoch 27] [Validate] Accuracy :  0.558 Loss :  2.463
+[Run 4, Task 3, Epoch 28] [Training] loss :  0.12651517, acc :  0.9612, batch_idx : 120
+[Run 4, Task 3, Epoch 28] [Validate] Accuracy :  0.549 Loss :  2.47
+[Run 4, Task 3, Epoch 29] [Training] loss :  0.14698166, acc :  0.9532, batch_idx : 120
+[Run 4, Task 3, Epoch 29] [Validate] Accuracy :  0.534 Loss :  2.713
+[Run 4, Task 3, Epoch 30] [Training] loss :  0.11443551, acc :  0.9654, batch_idx : 120
+[Run 4, Task 3, Epoch 30] [Validate] Accuracy :  0.516 Loss :  2.805
+[Run 4, Task 3, Epoch 31] [Training] loss :  0.11494091, acc :  0.9672, batch_idx : 120
+[Run 4, Task 3, Epoch 31] [Validate] Accuracy :  0.538 Loss :  2.608
+[Run 4, Task 3, Epoch 32] [Training] loss :  0.083494684, acc :  0.9746, batch_idx : 120
+[Run 4, Task 3, Epoch 32] [Validate] Accuracy :  0.562 Loss :  2.847
+[Run 4, Task 3, Epoch 33] [Training] loss :  0.089729995, acc :  0.9724, batch_idx : 120
+[Run 4, Task 3, Epoch 33] [Validate] Accuracy :  0.542 Loss :  2.79
+[Run 4, Task 3, Epoch 34] [Training] loss :  0.090355418, acc :  0.9721, batch_idx : 120
+[Run 4, Task 3, Epoch 34] [Validate] Accuracy :  0.566 Loss :  2.789
+[Run 4, Task 3, Epoch 35] [Training] loss :  0.071341178, acc :  0.9793, batch_idx : 120
+[Run 4, Task 3, Epoch 35] [Validate] Accuracy :  0.554 Loss :  3.029
+[Run 4, Task 3, Epoch 36] [Training] loss :  0.078066718, acc :  0.9752, batch_idx : 120
+[Run 4, Task 3, Epoch 36] [Validate] Accuracy :  0.555 Loss :  2.998
+[Run 4, Task 3, Epoch 37] [Training] loss :  0.097690264, acc :  0.9699, batch_idx : 120
+[Run 4, Task 3, Epoch 37] [Validate] Accuracy :  0.553 Loss :  3.069
+[Run 4, Task 3, Epoch 38] [Training] loss :  0.086666781, acc :  0.9718, batch_idx : 120
+[Run 4, Task 3, Epoch 38] [Validate] Accuracy :  0.567 Loss :  2.895
+[Run 4, Task 3, Epoch 39] [Training] loss :  0.082619432, acc :  0.9743, batch_idx : 120
+[Run 4, Task 3, Epoch 39] [Validate] Accuracy :  0.553 Loss :  3.038
+[Run 4, Task 3, Epoch 40] [Training] loss :  0.073918587, acc :  0.9772, batch_idx : 120
+[Run 4, Task 3, Epoch 40] [Validate] Accuracy :  0.557 Loss :  3.04
+[Run 4, Task 3, Epoch 41] [Training] loss :  0.083580065, acc :  0.9749, batch_idx : 120
+[Run 4, Task 3, Epoch 41] [Validate] Accuracy :  0.541 Loss :  2.934
+[Run 4, Task 3, Epoch 42] [Training] loss :  0.056962239, acc :  0.9812, batch_idx : 120
+[Run 4, Task 3, Epoch 42] [Validate] Accuracy :  0.544 Loss :  3.332
+[Run 4, Task 3, Epoch 43] [Training] loss :  0.033498687, acc :  0.9906, batch_idx : 120
+[Run 4, Task 3, Epoch 43] [Validate] Accuracy :  0.541 Loss :  3.373
+[Run 4, Task 3, Epoch 44] [Training] loss :  0.022508692, acc :  0.9929, batch_idx : 120
+[Run 4, Task 3, Epoch 44] [Validate] Accuracy :  0.543 Loss :  3.544
+[Run 4, Task 3, Epoch 45] [Training] loss :  0.030463424, acc :  0.9917, batch_idx : 120
+[Run 4, Task 3, Epoch 45] [Validate] Accuracy :  0.547 Loss :  3.348
+[Run 4, Task 3, Epoch 46] [Training] loss :  0.078114535, acc :  0.9777, batch_idx : 120
+[Run 4, Task 3, Epoch 46] [Validate] Accuracy :  0.545 Loss :  3.041
+[Run 4, Task 3, Epoch 47] [Training] loss :  0.11109223, acc :  0.963, batch_idx : 120
+[Run 4, Task 3, Epoch 47] [Validate] Accuracy :  0.568 Loss :  2.706
+[Run 4, Task 3, Epoch 48] [Training] loss :  0.062273461, acc :  0.9819, batch_idx : 120
+[Run 4, Task 3, Epoch 48] [Validate] Accuracy :  0.557 Loss :  3.039
+[Run 4, Task 3, Epoch 49] [Training] loss :  0.06031828, acc :  0.9804, batch_idx : 120
+[Run 4, Task 3, Epoch 49] [Validate] Accuracy :  0.568 Loss :  3.207
+[Run 4, Task 3, Epoch 50] [Training] loss :  0.042894885, acc :  0.9859, batch_idx : 120
+[Run 4, Task 3, Epoch 50] [Validate] Accuracy :  0.558 Loss :  3.378
+[Run 4, Task 3, Epoch 51] [Training] loss :  0.056827209, acc :  0.9848, batch_idx : 120
+[Run 4, Task 3, Epoch 51] [Validate] Accuracy :  0.555 Loss :  3.337
+[Run 4, Task 3, Epoch 52] [Training] loss :  0.060882996, acc :  0.9812, batch_idx : 120
+[Run 4, Task 3, Epoch 52] [Validate] Accuracy :  0.539 Loss :  3.318
+[Run 4, Task 3, Epoch 53] [Training] loss :  0.045367792, acc :  0.9879, batch_idx : 120
+[Run 4, Task 3, Epoch 53] [Validate] Accuracy :  0.546 Loss :  3.277
+[Run 4, Task 3, Epoch 54] [Training] loss :  0.031175797, acc :  0.9907, batch_idx : 120
+[Run 4, Task 3, Epoch 54] [Validate] Accuracy :  0.562 Loss :  3.595
+[Run 4, Task 3, Epoch 55] [Training] loss :  0.037659258, acc :  0.9886, batch_idx : 120
+[Run 4, Task 3, Epoch 55] [Validate] Accuracy :  0.534 Loss :  3.806
+[Run 4, Task 3, Epoch 56] [Training] loss :  0.079104774, acc :  0.9743, batch_idx : 120
+[Run 4, Task 3, Epoch 56] [Validate] Accuracy :  0.54 Loss :  3.235
+[Run 4, Task 3, Epoch 57] [Training] loss :  0.093980649, acc :  0.9734, batch_idx : 120
+[Run 4, Task 3, Epoch 57] [Validate] Accuracy :  0.542 Loss :  2.989
+[Run 4, Task 3, Epoch 58] [Training] loss :  0.066761942, acc :  0.9817, batch_idx : 120
+[Run 4, Task 3, Epoch 58] [Validate] Accuracy :  0.549 Loss :  3.202
+[Run 4, Task 3, Epoch 59] [Training] loss :  0.025380009, acc :  0.9928, batch_idx : 120
+[Run 4, Task 3, Epoch 59] [Validate] Accuracy :  0.546 Loss :  3.518
+[Run 4, Task 3, Epoch 60] [Training] loss :  0.030855937, acc :  0.9924, batch_idx : 120
+[Run 4, Task 3, Epoch 60] [Validate] Accuracy :  0.542 Loss :  3.431
+[Run 4, Task 3, Epoch 61] [Training] loss :  0.025030507, acc :  0.9928, batch_idx : 120
+[Run 4, Task 3, Epoch 61] [Validate] Accuracy :  0.544 Loss :  3.555
+[Run 4, Task 3, Epoch 62] [Training] loss :  0.029672479, acc :  0.9913, batch_idx : 120
+[Run 4, Task 3, Epoch 62] [Validate] Accuracy :  0.552 Loss :  3.63
+[Run 4, Task 3, Epoch 63] [Training] loss :  0.03288467, acc :  0.9906, batch_idx : 120
+[Run 4, Task 3, Epoch 63] [Validate] Accuracy :  0.551 Loss :  3.645
+[Run 4, Task 3, Epoch 64] [Training] loss :  0.095137365, acc :  0.97, batch_idx : 120
+[Run 4, Task 3, Epoch 64] [Validate] Accuracy :  0.526 Loss :  3.078
+[Run 4, Task 3, Epoch 65] [Training] loss :  0.069235375, acc :  0.9788, batch_idx : 120
+[Run 4, Task 3, Epoch 65] [Validate] Accuracy :  0.562 Loss :  3.178
+[Run 4, Task 3, Epoch 66] [Training] loss :  0.059190305, acc :  0.982, batch_idx : 120
+[Run 4, Task 3, Epoch 66] [Validate] Accuracy :  0.555 Loss :  3.322
+[Run 4, Task 3, Epoch 67] [Training] loss :  0.041465169, acc :  0.9886, batch_idx : 120
+[Run 4, Task 3, Epoch 67] [Validate] Accuracy :  0.56 Loss :  3.203
+[Run 4, Task 3, Epoch 68] [Training] loss :  0.024576544, acc :  0.9927, batch_idx : 120
+[Run 4, Task 3, Epoch 68] [Validate] Accuracy :  0.562 Loss :  3.401
+[Run 4, Task 3, Epoch 69] [Training] loss :  0.017536317, acc :  0.9953, batch_idx : 120
+[Run 4, Task 3, Epoch 69] [Validate] Accuracy :  0.582 Loss :  3.489
+[Run 4, Task 3, Epoch 70] [Training] loss :  0.026776685, acc :  0.9923, batch_idx : 120
+[Run 4, Task 3, Epoch 70] [Validate] Accuracy :  0.557 Loss :  3.45
+[Run 4, Task 3, Epoch 71] [Training] loss :  0.044641971, acc :  0.9857, batch_idx : 120
+[Run 4, Task 3, Epoch 71] [Validate] Accuracy :  0.555 Loss :  3.73
+[Run 4, Task 3, Epoch 72] [Training] loss :  0.057945413, acc :  0.9822, batch_idx : 120
+[Run 4, Task 3, Epoch 72] [Validate] Accuracy :  0.566 Loss :  3.277
+[Run 4, Task 3, Epoch 73] [Training] loss :  0.044954805, acc :  0.9861, batch_idx : 120
+[Run 4, Task 3, Epoch 73] [Validate] Accuracy :  0.559 Loss :  3.424
+[Run 4, Task 3, Epoch 74] [Training] loss :  0.030175565, acc :  0.9916, batch_idx : 120
+[Run 4, Task 3, Epoch 74] [Validate] Accuracy :  0.563 Loss :  3.559
+[Run 4, Task 3, Epoch 75] [Training] loss :  0.01962329, acc :  0.9947, batch_idx : 120
+[Run 4, Task 3, Epoch 75] [Validate] Accuracy :  0.564 Loss :  3.796
+[Run 4, Task 3, Epoch 76] [Training] loss :  0.010106088, acc :  0.997, batch_idx : 120
+[Run 4, Task 3, Epoch 76] [Validate] Accuracy :  0.571 Loss :  3.759
+[Run 4, Task 3, Epoch 77] [Training] loss :  0.018369929, acc :  0.9952, batch_idx : 120
+[Run 4, Task 3, Epoch 77] [Validate] Accuracy :  0.536 Loss :  4.03
+[Run 4, Task 3, Epoch 78] [Training] loss :  0.11061902, acc :  0.9666, batch_idx : 120
+[Run 4, Task 3, Epoch 78] [Validate] Accuracy :  0.559 Loss :  3.027
+[Run 4, Task 3, Epoch 79] [Training] loss :  0.075241678, acc :  0.9774, batch_idx : 120
+[Run 4, Task 3, Epoch 79] [Validate] Accuracy :  0.555 Loss :  3.053
+[Run 4, Task 3, Epoch 80] [Training] loss :  0.018480024, acc :  0.9944, batch_idx : 120
+[Run 4, Task 3, Epoch 80] [Validate] Accuracy :  0.558 Loss :  3.556
+[Run 4, Task 3, Epoch 81] [Training] loss :  0.036971772, acc :  0.9876, batch_idx : 120
+[Run 4, Task 3, Epoch 81] [Validate] Accuracy :  0.564 Loss :  3.363
+[Run 4, Task 3, Epoch 82] [Training] loss :  0.034049539, acc :  0.9902, batch_idx : 120
+[Run 4, Task 3, Epoch 82] [Validate] Accuracy :  0.578 Loss :  3.349
+[Run 4, Task 3, Epoch 83] [Training] loss :  0.041959635, acc :  0.9881, batch_idx : 120
+[Run 4, Task 3, Epoch 83] [Validate] Accuracy :  0.559 Loss :  3.451
+[Run 4, Task 3, Epoch 84] [Training] loss :  0.035317967, acc :  0.9897, batch_idx : 120
+[Run 4, Task 3, Epoch 84] [Validate] Accuracy :  0.566 Loss :  3.402
+[Run 4, Task 3, Epoch 85] [Training] loss :  0.081176175, acc :  0.9758, batch_idx : 120
+[Run 4, Task 3, Epoch 85] [Validate] Accuracy :  0.549 Loss :  3.204
+[Run 4, Task 3, Epoch 86] [Training] loss :  0.038692893, acc :  0.9872, batch_idx : 120
+[Run 4, Task 3, Epoch 86] [Validate] Accuracy :  0.567 Loss :  3.152
+[Run 4, Task 3, Epoch 87] [Training] loss :  0.029857634, acc :  0.9904, batch_idx : 120
+[Run 4, Task 3, Epoch 87] [Validate] Accuracy :  0.565 Loss :  3.358
+[Run 4, Task 3, Epoch 88] [Training] loss :  0.0096851219, acc :  0.9979, batch_idx : 120
+[Run 4, Task 3, Epoch 88] [Validate] Accuracy :  0.569 Loss :  3.731
+[Run 4, Task 3, Epoch 89] [Training] loss :  0.0044325141, acc :  0.999, batch_idx : 120
+[Run 4, Task 3, Epoch 89] [Validate] Accuracy :  0.571 Loss :  3.791
+[Run 4, Task 3, Epoch 90] [Training] loss :  0.0026829275, acc :  0.9997, batch_idx : 120
+[Run 4, Task 3, Epoch 90] [Validate] Accuracy :  0.571 Loss :  3.935
+[Run 4, Task 3, Epoch 91] [Training] loss :  0.0028248027, acc :  0.9994, batch_idx : 120
+[Run 4, Task 3, Epoch 91] [Validate] Accuracy :  0.574 Loss :  4.011
+[Run 4, Task 3, Epoch 92] [Training] loss :  0.0041969774, acc :  0.9996, batch_idx : 120
+[Run 4, Task 3, Epoch 92] [Validate] Accuracy :  0.575 Loss :  4.009
+[Run 4, Task 3, Epoch 93] [Training] loss :  0.0015600988, acc :  0.9997, batch_idx : 120
+[Run 4, Task 3, Epoch 93] [Validate] Accuracy :  0.573 Loss :  4.116
+[Run 4, Task 3, Epoch 94] [Training] loss :  0.019851492, acc :  0.9953, batch_idx : 120
+[Run 4, Task 3, Epoch 94] [Validate] Accuracy :  0.57 Loss :  4.01
+[Run 4, Task 3, Epoch 95] [Training] loss :  0.1477544, acc :  0.9539, batch_idx : 120
+[Run 4, Task 3, Epoch 95] [Validate] Accuracy :  0.558 Loss :  2.508
+[Run 4, Task 3, Epoch 96] [Training] loss :  0.086684616, acc :  0.9721, batch_idx : 120
+[Run 4, Task 3, Epoch 96] [Validate] Accuracy :  0.56 Loss :  2.661
+[Run 4, Task 3, Epoch 97] [Training] loss :  0.050682253, acc :  0.985, batch_idx : 120
+[Run 4, Task 3, Epoch 97] [Validate] Accuracy :  0.57 Loss :  3.274
+[Run 4, Task 3, Epoch 98] [Training] loss :  0.025452724, acc :  0.9922, batch_idx : 120
+[Run 4, Task 3, Epoch 98] [Validate] Accuracy :  0.565 Loss :  3.403
+[Run 4, Task 3, Epoch 99] [Training] loss :  0.02935601, acc :  0.9908, batch_idx : 120
+[Run 4, Task 3, Epoch 99] [Validate] Accuracy :  0.58 Loss :  3.532
+[Run 4, Task 3, Epoch 100] [Training] loss :  0.040367034, acc :  0.9892, batch_idx : 120
+[Run 4, Task 3, Epoch 100] [Validate] Accuracy :  0.571 Loss :  3.363
+[Run 4, Task 3, Epoch 101] [Training] loss :  0.021998082, acc :  0.9948, batch_idx : 120
+[Run 4, Task 3, Epoch 101] [Validate] Accuracy :  0.576 Loss :  3.614
+[Run 4, Task 3, Epoch 102] [Training] loss :  0.013965046, acc :  0.9963, batch_idx : 120
+[Run 4, Task 3, Epoch 102] [Validate] Accuracy :  0.572 Loss :  3.467
+[Run 4, Task 3, Epoch 103] [Training] loss :  0.0099280342, acc :  0.9974, batch_idx : 120
+[Run 4, Task 3, Epoch 103] [Validate] Accuracy :  0.576 Loss :  3.716
+[Run 4, Task 3, Epoch 104] [Training] loss :  0.0057833556, acc :  0.9984, batch_idx : 120
+[Run 4, Task 3, Epoch 104] [Validate] Accuracy :  0.574 Loss :  4.031
+[Run 4, Task 3, Epoch 105] [Training] loss :  0.011993497, acc :  0.9971, batch_idx : 120
+[Run 4, Task 3, Epoch 105] [Validate] Accuracy :  0.587 Loss :  4.14
+[Run 4, Task 3, Epoch 106] [Training] loss :  0.050545298, acc :  0.9877, batch_idx : 120
+[Run 4, Task 3, Epoch 106] [Validate] Accuracy :  0.559 Loss :  3.429
+[Run 4, Task 3, Epoch 107] [Training] loss :  0.10894558, acc :  0.9678, batch_idx : 120
+[Run 4, Task 3, Epoch 107] [Validate] Accuracy :  0.568 Loss :  3.092
+[Run 4, Task 3, Epoch 108] [Training] loss :  0.039067878, acc :  0.9887, batch_idx : 120
+[Run 4, Task 3, Epoch 108] [Validate] Accuracy :  0.562 Loss :  3.285
+[Run 4, Task 3, Epoch 109] [Training] loss :  0.043651611, acc :  0.9866, batch_idx : 120
+[Run 4, Task 3, Epoch 109] [Validate] Accuracy :  0.565 Loss :  3.127
+[Run 4, Task 3, Epoch 110] [Training] loss :  0.040257157, acc :  0.9871, batch_idx : 120
+[Run 4, Task 3, Epoch 110] [Validate] Accuracy :  0.575 Loss :  3.404
+[Run 4, Task 3, Epoch 111] [Training] loss :  0.053377679, acc :  0.984, batch_idx : 120
+[Run 4, Task 3, Epoch 111] [Validate] Accuracy :  0.566 Loss :  3.115
+[Run 4, Task 3, Epoch 112] [Training] loss :  0.024253227, acc :  0.9928, batch_idx : 120
+[Run 4, Task 3, Epoch 112] [Validate] Accuracy :  0.573 Loss :  3.679
+[Run 4, Task 3, Epoch 113] [Training] loss :  0.012352255, acc :  0.9969, batch_idx : 120
+[Run 4, Task 3, Epoch 113] [Validate] Accuracy :  0.571 Loss :  3.721
+[Run 4, Task 3, Epoch 114] [Training] loss :  0.0086852468, acc :  0.9971, batch_idx : 120
+[Run 4, Task 3, Epoch 114] [Validate] Accuracy :  0.566 Loss :  3.85
+[Run 4, Task 3, Epoch 115] [Training] loss :  0.0072460624, acc :  0.9982, batch_idx : 120
+[Run 4, Task 3, Epoch 115] [Validate] Accuracy :  0.59 Loss :  3.879
+[Run 4, Task 3, Epoch 116] [Training] loss :  0.00646431, acc :  0.9986, batch_idx : 120
+[Run 4, Task 3, Epoch 116] [Validate] Accuracy :  0.588 Loss :  3.925
+[Run 4, Task 3, Epoch 117] [Training] loss :  0.024091196, acc :  0.9927, batch_idx : 120
+[Run 4, Task 3, Epoch 117] [Validate] Accuracy :  0.561 Loss :  3.57
+[Run 4, Task 3, Epoch 118] [Training] loss :  0.05741014, acc :  0.984, batch_idx : 120
+[Run 4, Task 3, Epoch 118] [Validate] Accuracy :  0.576 Loss :  3.37
+[Run 4, Task 3, Epoch 119] [Training] loss :  0.073455122, acc :  0.9777, batch_idx : 120
+[Run 4, Task 3, Epoch 119] [Validate] Accuracy :  0.574 Loss :  2.987
+[Run 4, Task 3, Epoch 120] [Training] loss :  0.052863068, acc :  0.9838, batch_idx : 120
+[Run 4, Task 3, Epoch 120] [Validate] Accuracy :  0.583 Loss :  3.362
+[Run 4, Task 3, Epoch 121] [Training] loss :  0.045155169, acc :  0.9846, batch_idx : 120
+[Run 4, Task 3, Epoch 121] [Validate] Accuracy :  0.572 Loss :  3.611
+[Run 4, Task 3, Epoch 122] [Training] loss :   0.039582, acc :  0.9877, batch_idx : 120
+[Run 4, Task 3, Epoch 122] [Validate] Accuracy :  0.568 Loss :  3.369
+[Run 4, Task 3, Epoch 123] [Training] loss :  0.025935892, acc :  0.9929, batch_idx : 120
+[Run 4, Task 3, Epoch 123] [Validate] Accuracy :  0.559 Loss :  3.549
+[Run 4, Task 3, Epoch 124] [Training] loss :  0.012592781, acc :  0.996, batch_idx : 120
+[Run 4, Task 3, Epoch 124] [Validate] Accuracy :  0.569 Loss :  3.72
+[Run 4, Task 3, Epoch 125] [Training] loss :  0.016296026, acc :  0.995, batch_idx : 120
+[Run 4, Task 3, Epoch 125] [Validate] Accuracy :  0.588 Loss :  3.642
+[Run 4, Task 3, Epoch 126] [Training] loss :  0.012758712, acc :  0.997, batch_idx : 120
+[Run 4, Task 3, Epoch 126] [Validate] Accuracy :  0.576 Loss :  3.805
+[Run 4, Task 3, Epoch 127] [Training] loss :  0.0089701524, acc :  0.9978, batch_idx : 120
+[Run 4, Task 3, Epoch 127] [Validate] Accuracy :  0.581 Loss :  3.927
+[Run 4, Task 3, Epoch 128] [Training] loss :  0.033759779, acc :  0.9902, batch_idx : 120
+[Run 4, Task 3, Epoch 128] [Validate] Accuracy :  0.578 Loss :  3.149
+[Run 4, Task 3, Epoch 129] [Training] loss :  0.069765548, acc :  0.9793, batch_idx : 120
+[Run 4, Task 3, Epoch 129] [Validate] Accuracy :  0.566 Loss :  2.916
+[Run 4, Task 3, Epoch 130] [Training] loss :  0.041465531, acc :  0.9886, batch_idx : 120
+[Run 4, Task 3, Epoch 130] [Validate] Accuracy :  0.557 Loss :  3.226
+[Run 4, Task 3, Epoch 131] [Training] loss :  0.013818188, acc :  0.9967, batch_idx : 120
+[Run 4, Task 3, Epoch 131] [Validate] Accuracy :  0.571 Loss :  3.598
+[Run 4, Task 3, Epoch 132] [Training] loss :  0.0091068338, acc :  0.9973, batch_idx : 120
+[Run 4, Task 3, Epoch 132] [Validate] Accuracy :  0.572 Loss :  3.759
+[Run 4, Task 3, Epoch 133] [Training] loss :  0.040122273, acc :  0.9879, batch_idx : 120
+[Run 4, Task 3, Epoch 133] [Validate] Accuracy :  0.56 Loss :  3.686
+[Run 4, Task 3, Epoch 134] [Training] loss :  0.042148452, acc :  0.9873, batch_idx : 120
+[Run 4, Task 3, Epoch 134] [Validate] Accuracy :  0.559 Loss :  3.571
+[Run 4, Task 3, Epoch 135] [Training] loss :  0.029624356, acc :  0.9913, batch_idx : 120
+[Run 4, Task 3, Epoch 135] [Validate] Accuracy :  0.559 Loss :  3.491
+[Run 4, Task 3, Epoch 136] [Training] loss :  0.040752702, acc :  0.9883, batch_idx : 120
+[Run 4, Task 3, Epoch 136] [Validate] Accuracy :  0.559 Loss :  3.459
+[Run 4, Task 3, Epoch 137] [Training] loss :  0.022389621, acc :  0.9926, batch_idx : 120
+[Run 4, Task 3, Epoch 137] [Validate] Accuracy :  0.575 Loss :  3.558
+[Run 4, Task 3, Epoch 138] [Training] loss :  0.02581681, acc :  0.9924, batch_idx : 120
+[Run 4, Task 3, Epoch 138] [Validate] Accuracy :  0.569 Loss :  3.582
+[Run 4, Task 3, Epoch 139] [Training] loss :  0.020865099, acc :  0.9946, batch_idx : 120
+[Run 4, Task 3, Epoch 139] [Validate] Accuracy :  0.566 Loss :  3.615
+[Run 4, Task 3, Epoch 140] [Training] loss :  0.0075009339, acc :  0.9982, batch_idx : 120
+[Run 4, Task 3, Epoch 140] [Validate] Accuracy :  0.555 Loss :  3.658
+[Run 4, Task 3, Epoch 141] [Training] loss :  0.0025949047, acc :  0.9997, batch_idx : 120
+[Run 4, Task 3, Epoch 141] [Validate] Accuracy :  0.568 Loss :  4.057
+[Run 4, Task 3, Epoch 142] [Training] loss :  0.0018479495, acc :  0.9999, batch_idx : 120
+[Run 4, Task 3, Epoch 142] [Validate] Accuracy :  0.576 Loss :  4.134
+[Run 4, Task 3, Epoch 143] [Training] loss :  0.00082233339, acc :   1.0, batch_idx : 120
+[Run 4, Task 3, Epoch 143] [Validate] Accuracy :  0.577 Loss :  4.157
+[Run 4, Task 3, Epoch 144] [Training] loss :  0.00073426882, acc :   1.0, batch_idx : 120
+[Run 4, Task 3, Epoch 144] [Validate] Accuracy :  0.572 Loss :  4.184
+[Run 4, Task 3, Epoch 145] [Training] loss :  0.00071892924, acc :   1.0, batch_idx : 120
+[Run 4, Task 3, Epoch 145] [Validate] Accuracy :  0.57 Loss :  4.211
+[Run 4, Task 3, Epoch 146] [Training] loss :  0.0014297243, acc :  0.9997, batch_idx : 120
+[Run 4, Task 3, Epoch 146] [Validate] Accuracy :  0.572 Loss :  4.272
+[Run 4, Task 3, Epoch 147] [Training] loss :  0.058562062, acc :  0.9846, batch_idx : 120
+[Run 4, Task 3, Epoch 147] [Validate] Accuracy :  0.577 Loss :  3.023
+[Run 4, Task 3, Epoch 148] [Training] loss :  0.14766066, acc :  0.9546, batch_idx : 120
+[Run 4, Task 3, Epoch 148] [Validate] Accuracy :  0.565 Loss :  2.519
+[Run 4, Task 3, Epoch 149] [Training] loss :  0.055336317, acc :  0.9836, batch_idx : 120
+[Run 4, Task 3, Epoch 149] [Validate] Accuracy :  0.557 Loss :  2.98
+[Run 4, Task 3, Epoch 150] [Training] loss :  0.02139259, acc :  0.994, batch_idx : 120
+[Run 4, Task 3, Epoch 150] [Validate] Accuracy :  0.565 Loss :  3.227
+[Run 4, Task 3, Epoch 151] [Training] loss :  0.018161096, acc :  0.995, batch_idx : 120
+[Run 4, Task 3, Epoch 151] [Validate] Accuracy :  0.564 Loss :  3.391
+[Run 4, Task 3, Epoch 152] [Training] loss :  0.033724097, acc :  0.9894, batch_idx : 120
+[Run 4, Task 3, Epoch 152] [Validate] Accuracy :  0.569 Loss :  3.506
+[Run 4, Task 3, Epoch 153] [Training] loss :  0.052664274, acc :  0.9836, batch_idx : 120
+[Run 4, Task 3, Epoch 153] [Validate] Accuracy :  0.554 Loss :  2.978
+[Run 4, Task 3, Epoch 154] [Training] loss :  0.039829923, acc :  0.9892, batch_idx : 120
+[Run 4, Task 3, Epoch 154] [Validate] Accuracy :  0.567 Loss :  3.366
+[Run 4, Task 3, Epoch 155] [Training] loss :  0.025122392, acc :  0.9921, batch_idx : 120
+[Run 4, Task 3, Epoch 155] [Validate] Accuracy :  0.591 Loss :  3.221
+[Run 4, Task 3, Epoch 156] [Training] loss :  0.033067864, acc :  0.9909, batch_idx : 120
+[Run 4, Task 3, Epoch 156] [Validate] Accuracy :  0.568 Loss :  3.254
+[Run 4, Task 3, Epoch 157] [Training] loss :  0.025698285, acc :  0.9927, batch_idx : 120
+[Run 4, Task 3, Epoch 157] [Validate] Accuracy :  0.571 Loss :  3.273
+[Run 4, Task 3, Epoch 158] [Training] loss :  0.016421196, acc :  0.996, batch_idx : 120
+[Run 4, Task 3, Epoch 158] [Validate] Accuracy :  0.572 Loss :  3.541
+[Run 4, Task 3, Epoch 159] [Training] loss :  0.020099144, acc :  0.9948, batch_idx : 120
+[Run 4, Task 3, Epoch 159] [Validate] Accuracy :  0.584 Loss :  3.582
+[Run 4, Task 3, Epoch 160] [Training] loss :  0.063169253, acc :  0.9818, batch_idx : 120
+[Run 4, Task 3, Epoch 160] [Validate] Accuracy :  0.57 Loss :  2.991
+[Run 4, Task 3, Epoch 161] [Training] loss :  0.02301223, acc :  0.993, batch_idx : 120
+[Run 4, Task 3, Epoch 161] [Validate] Accuracy :  0.578 Loss :  3.424
+[Run 4, Task 3, Epoch 162] [Training] loss :  0.015016517, acc :  0.9957, batch_idx : 120
+[Run 4, Task 3, Epoch 162] [Validate] Accuracy :  0.587 Loss :  3.305
+[Run 4, Task 3, Epoch 163] [Training] loss :  0.01440567, acc :  0.9974, batch_idx : 120
+[Run 4, Task 3, Epoch 163] [Validate] Accuracy :  0.578 Loss :  3.418
+[Run 4, Task 3, Epoch 164] [Training] loss :  0.0069249431, acc :  0.9987, batch_idx : 120
+[Run 4, Task 3, Epoch 164] [Validate] Accuracy :  0.59 Loss :  3.596
+[Run 4, Task 3, Epoch 165] [Training] loss :  0.0057344067, acc :  0.999, batch_idx : 120
+[Run 4, Task 3, Epoch 165] [Validate] Accuracy :  0.581 Loss :  3.596
+[Run 4, Task 3, Epoch 166] [Training] loss :  0.011104008, acc :  0.9966, batch_idx : 120
+[Run 4, Task 3, Epoch 166] [Validate] Accuracy :  0.574 Loss :  3.69
+[Run 4, Task 3, Epoch 167] [Training] loss :  0.084720879, acc :  0.9739, batch_idx : 120
+[Run 4, Task 3, Epoch 167] [Validate] Accuracy :  0.59 Loss :  2.995
+[Run 4, Task 3, Epoch 168] [Training] loss :  0.067572532, acc :  0.9814, batch_idx : 120
+[Run 4, Task 3, Epoch 168] [Validate] Accuracy :  0.564 Loss :  3.015
+[Run 4, Task 3, Epoch 169] [Training] loss :  0.024559789, acc :  0.9929, batch_idx : 120
+[Run 4, Task 3, Epoch 169] [Validate] Accuracy :  0.578 Loss :  3.157
+[Run 4, Task 3, Epoch 170] [Training] loss :  0.013536479, acc :  0.9962, batch_idx : 120
+[Run 4, Task 3, Epoch 170] [Validate] Accuracy :  0.575 Loss :  3.332
+[Run 4, Task 3, Epoch 171] [Training] loss :  0.0080162663, acc :  0.9979, batch_idx : 120
+[Run 4, Task 3, Epoch 171] [Validate] Accuracy :  0.574 Loss :  3.665
+[Run 4, Task 3, Epoch 172] [Training] loss :  0.009370625, acc :  0.9978, batch_idx : 120
+[Run 4, Task 3, Epoch 172] [Validate] Accuracy :  0.576 Loss :  3.553
+[Run 4, Task 3, Epoch 173] [Training] loss :  0.013078152, acc :  0.9966, batch_idx : 120
+[Run 4, Task 3, Epoch 173] [Validate] Accuracy :  0.57 Loss :  3.578
+[Run 4, Task 3, Epoch 174] [Training] loss :  0.032465019, acc :  0.9903, batch_idx : 120
+[Run 4, Task 3, Epoch 174] [Validate] Accuracy :  0.582 Loss :  3.302
+[Run 4, Task 3, Epoch 175] [Training] loss :  0.047646758, acc :  0.9861, batch_idx : 120
+[Run 4, Task 3, Epoch 175] [Validate] Accuracy :  0.574 Loss :  3.357
+[Run 4, Task 3, Epoch 176] [Training] loss :  0.04484706, acc :  0.9879, batch_idx : 120
+[Run 4, Task 3, Epoch 176] [Validate] Accuracy :  0.584 Loss :  3.137
+[Run 4, Task 3, Epoch 177] [Training] loss :  0.041821941, acc :  0.9876, batch_idx : 120
+[Run 4, Task 3, Epoch 177] [Validate] Accuracy :  0.566 Loss :  3.098
+[Run 4, Task 3, Epoch 178] [Training] loss :  0.015897599, acc :  0.9957, batch_idx : 120
+[Run 4, Task 3, Epoch 178] [Validate] Accuracy :  0.589 Loss :  3.428
+[Run 4, Task 3, Epoch 179] [Training] loss :  0.018147877, acc :  0.9948, batch_idx : 120
+[Run 4, Task 3, Epoch 179] [Validate] Accuracy :  0.563 Loss :  3.413
+[Run 4, Task 3, Epoch 180] [Training] loss :  0.020624246, acc :  0.9939, batch_idx : 120
+[Run 4, Task 3, Epoch 180] [Validate] Accuracy :  0.598 Loss :  3.423
+[Run 4, Task 3, Epoch 181] [Training] loss :  0.048386452, acc :  0.9859, batch_idx : 120
+[Run 4, Task 3, Epoch 181] [Validate] Accuracy :  0.575 Loss :  3.058
+[Run 4, Task 3, Epoch 182] [Training] loss :  0.039205068, acc :  0.9873, batch_idx : 120
+[Run 4, Task 3, Epoch 182] [Validate] Accuracy :  0.576 Loss :  3.158
+[Run 4, Task 3, Epoch 183] [Training] loss :  0.051813551, acc :  0.986, batch_idx : 120
+[Run 4, Task 3, Epoch 183] [Validate] Accuracy :  0.57 Loss :  3.03
+[Run 4, Task 3, Epoch 184] [Training] loss :  0.030838454, acc :  0.9909, batch_idx : 120
+[Run 4, Task 3, Epoch 184] [Validate] Accuracy :  0.583 Loss :  2.994
+[Run 4, Task 3, Epoch 185] [Training] loss :  0.025206995, acc :  0.9932, batch_idx : 120
+[Run 4, Task 3, Epoch 185] [Validate] Accuracy :  0.582 Loss :  3.21
+[Run 4, Task 3, Epoch 186] [Training] loss :  0.022067922, acc :  0.9937, batch_idx : 120
+[Run 4, Task 3, Epoch 186] [Validate] Accuracy :  0.581 Loss :  3.414
+[Run 4, Task 3, Epoch 187] [Training] loss :  0.0089948444, acc :  0.9969, batch_idx : 120
+[Run 4, Task 3, Epoch 187] [Validate] Accuracy :  0.567 Loss :  3.59
+[Run 4, Task 3, Epoch 188] [Training] loss :  0.018533628, acc :  0.995, batch_idx : 120
+[Run 4, Task 3, Epoch 188] [Validate] Accuracy :  0.563 Loss :  3.678
+[Run 4, Task 3, Epoch 189] [Training] loss :  0.017987676, acc :  0.9943, batch_idx : 120
+[Run 4, Task 3, Epoch 189] [Validate] Accuracy :  0.576 Loss :  3.556
+[Run 4, Task 3, Epoch 190] [Training] loss :  0.0284548, acc :  0.9918, batch_idx : 120
+[Run 4, Task 3, Epoch 190] [Validate] Accuracy :  0.55 Loss :  3.493
+[Run 4, Task 3, Epoch 191] [Training] loss :  0.04645413, acc :  0.986, batch_idx : 120
+[Run 4, Task 3, Epoch 191] [Validate] Accuracy :  0.583 Loss :  2.997
+[Run 4, Task 3, Epoch 192] [Training] loss :  0.024811163, acc :  0.9926, batch_idx : 120
+[Run 4, Task 3, Epoch 192] [Validate] Accuracy :  0.572 Loss :  3.306
+[Run 4, Task 3, Epoch 193] [Training] loss :  0.021118776, acc :  0.994, batch_idx : 120
+[Run 4, Task 3, Epoch 193] [Validate] Accuracy :  0.591 Loss :  3.392
+[Run 4, Task 3, Epoch 194] [Training] loss :  0.027382221, acc :  0.9913, batch_idx : 120
+[Run 4, Task 3, Epoch 194] [Validate] Accuracy :  0.584 Loss :  3.234
+[Run 4, Task 3, Epoch 195] [Training] loss :  0.011889051, acc :  0.9966, batch_idx : 120
+[Run 4, Task 3, Epoch 195] [Validate] Accuracy :  0.57 Loss :  3.521
+[Run 4, Task 3, Epoch 196] [Training] loss :  0.0059094839, acc :  0.9988, batch_idx : 120
+[Run 4, Task 3, Epoch 196] [Validate] Accuracy :  0.571 Loss :  3.629
+[Run 4, Task 3, Epoch 197] [Training] loss :  0.0034505666, acc :  0.9991, batch_idx : 120
+[Run 4, Task 3, Epoch 197] [Validate] Accuracy :  0.578 Loss :  3.722
+[Run 4, Task 3, Epoch 198] [Training] loss :  0.0024537405, acc :  0.9998, batch_idx : 120
+[Run 4, Task 3, Epoch 198] [Validate] Accuracy :  0.574 Loss :  3.872
+[Run 4, Task 3, Epoch 199] [Training] loss :  0.0016848145, acc :  0.9998, batch_idx : 120
+[Run 4, Task 3, Epoch 199] [Validate] Accuracy :  0.574 Loss :  3.933
+[Run 4, Task 3, Epoch 200] [Training] loss :  0.00086227247, acc :  0.9999, batch_idx : 120
+[Run 4, Task 3, Epoch 200] [Validate] Accuracy :  0.582 Loss :  3.934
+[Run 4, Task 3, Epoch 201] [Training] loss :  0.00060038084, acc :   1.0, batch_idx : 120
+[Run 4, Task 3, Epoch 201] [Validate] Accuracy :  0.582 Loss :  3.988
+[Run 4, Task 3, Epoch 202] [Training] loss :  0.0007271843, acc :   1.0, batch_idx : 120
+[Run 4, Task 3, Epoch 202] [Validate] Accuracy :  0.586 Loss :  4.088
+[Run 4, Task 3, Epoch 203] [Training] loss :  0.0010420024, acc :   1.0, batch_idx : 120
+[Run 4, Task 3, Epoch 203] [Validate] Accuracy :  0.574 Loss :  4.09
+[Run 4, Task 3, Epoch 204] [Training] loss :  0.14436186, acc :  0.9603, batch_idx : 120
+[Run 4, Task 3, Epoch 204] [Validate] Accuracy :  0.56 Loss :  2.223
+[Run 4, Task 3, Epoch 205] [Training] loss :  0.094921229, acc :  0.9712, batch_idx : 120
+[Run 4, Task 3, Epoch 205] [Validate] Accuracy :  0.585 Loss :  2.574
+[Run 4, Task 3, Epoch 206] [Training] loss :  0.054764137, acc :  0.9832, batch_idx : 120
+[Run 4, Task 3, Epoch 206] [Validate] Accuracy :  0.585 Loss :  2.764
+[Run 4, Task 3, Epoch 207] [Training] loss :  0.025949437, acc :  0.9927, batch_idx : 120
+[Run 4, Task 3, Epoch 207] [Validate] Accuracy :  0.589 Loss :  3.05
+[Run 4, Task 3, Epoch 208] [Training] loss :  0.016052657, acc :  0.9966, batch_idx : 120
+[Run 4, Task 3, Epoch 208] [Validate] Accuracy :  0.588 Loss :  3.272
+[Run 4, Task 3, Epoch 209] [Training] loss :  0.016760777, acc :  0.9951, batch_idx : 120
+[Run 4, Task 3, Epoch 209] [Validate] Accuracy :  0.582 Loss :  3.07
+[Run 4, Task 3, Epoch 210] [Training] loss :  0.0189678, acc :  0.9946, batch_idx : 120
+[Run 4, Task 3, Epoch 210] [Validate] Accuracy :  0.586 Loss :  3.734
+[Run 4, Task 3, Epoch 211] [Training] loss :  0.042368987, acc :  0.9874, batch_idx : 120
+[Run 4, Task 3, Epoch 211] [Validate] Accuracy :  0.572 Loss :  3.219
+[Run 4, Task 3, Epoch 212] [Training] loss :  0.045387127, acc :  0.9866, batch_idx : 120
+[Run 4, Task 3, Epoch 212] [Validate] Accuracy :  0.572 Loss :  3.233
+[Run 4, Task 3, Epoch 213] [Training] loss :  0.023908609, acc :  0.992, batch_idx : 120
+[Run 4, Task 3, Epoch 213] [Validate] Accuracy :  0.56 Loss :  3.244
+[Run 4, Task 3, Epoch 214] [Training] loss :  0.01358654, acc :  0.9963, batch_idx : 120
+[Run 4, Task 3, Epoch 214] [Validate] Accuracy :  0.579 Loss :  3.412
+[Run 4, Task 3, Epoch 215] [Training] loss :  0.0099218225, acc :  0.9976, batch_idx : 120
+[Run 4, Task 3, Epoch 215] [Validate] Accuracy :  0.585 Loss :  3.395
+[Run 4, Task 3, Epoch 216] [Training] loss :  0.0048842975, acc :  0.9993, batch_idx : 120
+[Run 4, Task 3, Epoch 216] [Validate] Accuracy :  0.569 Loss :  3.646
+[Run 4, Task 3, Epoch 217] [Training] loss :  0.011149725, acc :  0.9967, batch_idx : 120
+[Run 4, Task 3, Epoch 217] [Validate] Accuracy :  0.594 Loss :  3.612
+[Run 4, Task 3, Epoch 218] [Training] loss :  0.050602891, acc :  0.9848, batch_idx : 120
+[Run 4, Task 3, Epoch 218] [Validate] Accuracy :  0.578 Loss :  2.847
+[Run 4, Task 3, Epoch 219] [Training] loss :  0.061889803, acc :  0.9801, batch_idx : 120
+[Run 4, Task 3, Epoch 219] [Validate] Accuracy :  0.585 Loss :  2.982
+[Run 4, Task 3, Epoch 220] [Training] loss :  0.033988778, acc :  0.9904, batch_idx : 120
+[Run 4, Task 3, Epoch 220] [Validate] Accuracy :  0.582 Loss :  2.989
+[Run 4, Task 3, Epoch 221] [Training] loss :  0.028218727, acc :  0.9909, batch_idx : 120
+[Run 4, Task 3, Epoch 221] [Validate] Accuracy :  0.578 Loss :  3.293
+[Run 4, Task 3, Epoch 222] [Training] loss :  0.023702042, acc :  0.9928, batch_idx : 120
+[Run 4, Task 3, Epoch 222] [Validate] Accuracy :  0.592 Loss :  3.179
+[Run 4, Task 3, Epoch 223] [Training] loss :  0.021506254, acc :  0.9929, batch_idx : 120
+[Run 4, Task 3, Epoch 223] [Validate] Accuracy :  0.581 Loss :  3.265
+[Run 4, Task 3, Epoch 224] [Training] loss :  0.024891303, acc :  0.9932, batch_idx : 120
+[Run 4, Task 3, Epoch 224] [Validate] Accuracy :  0.576 Loss :  3.418
+[Run 4, Task 3, Epoch 225] [Training] loss :  0.022248837, acc :  0.9927, batch_idx : 120
+[Run 4, Task 3, Epoch 225] [Validate] Accuracy :  0.584 Loss :  3.491
+[Run 4, Task 3, Epoch 226] [Training] loss :  0.020147984, acc :  0.9942, batch_idx : 120
+[Run 4, Task 3, Epoch 226] [Validate] Accuracy :  0.595 Loss :  3.429
+[Run 4, Task 3, Epoch 227] [Training] loss :  0.02407312, acc :  0.9931, batch_idx : 120
+[Run 4, Task 3, Epoch 227] [Validate] Accuracy :  0.61 Loss :  3.124
+[Run 4, Task 3, Epoch 228] [Training] loss :  0.0087911254, acc :  0.9977, batch_idx : 120
+[Run 4, Task 3, Epoch 228] [Validate] Accuracy :  0.606 Loss :  3.406
+[Run 4, Task 3, Epoch 229] [Training] loss :  0.0036396536, acc :  0.9992, batch_idx : 120
+[Run 4, Task 3, Epoch 229] [Validate] Accuracy :  0.594 Loss :  3.475
+[Run 4, Task 3, Epoch 230] [Training] loss :  0.015413062, acc :  0.9951, batch_idx : 120
+[Run 4, Task 3, Epoch 230] [Validate] Accuracy :  0.572 Loss :  3.576
+[Run 4, Task 3, Epoch 231] [Training] loss :  0.044051288, acc :  0.9888, batch_idx : 120
+[Run 4, Task 3, Epoch 231] [Validate] Accuracy :  0.563 Loss :  2.984
+[Run 4, Task 3, Epoch 232] [Training] loss :  0.016067851, acc :  0.9962, batch_idx : 120
+[Run 4, Task 3, Epoch 232] [Validate] Accuracy :  0.572 Loss :  3.204
+[Run 4, Task 3, Epoch 233] [Training] loss :  0.020187017, acc :  0.9941, batch_idx : 120
+[Run 4, Task 3, Epoch 233] [Validate] Accuracy :  0.588 Loss :  3.16
+[Run 4, Task 3, Epoch 234] [Training] loss :  0.029040636, acc :  0.9918, batch_idx : 120
+[Run 4, Task 3, Epoch 234] [Validate] Accuracy :  0.589 Loss :  3.238
+[Run 4, Task 3, Epoch 235] [Training] loss :  0.04245204, acc :  0.9888, batch_idx : 120
+[Run 4, Task 3, Epoch 235] [Validate] Accuracy :  0.591 Loss :  3.086
+[Run 4, Task 3, Epoch 236] [Training] loss :  0.04071038, acc :  0.9882, batch_idx : 120
+[Run 4, Task 3, Epoch 236] [Validate] Accuracy :  0.586 Loss :  2.845
+[Run 4, Task 3, Epoch 237] [Training] loss :  0.024576323, acc :  0.9927, batch_idx : 120
+[Run 4, Task 3, Epoch 237] [Validate] Accuracy :  0.572 Loss :  3.101
+[Run 4, Task 3, Epoch 238] [Training] loss :  0.019941523, acc :  0.9937, batch_idx : 120
+[Run 4, Task 3, Epoch 238] [Validate] Accuracy :  0.572 Loss :  3.231
+[Run 4, Task 3, Epoch 239] [Training] loss :  0.011876943, acc :  0.997, batch_idx : 120
+[Run 4, Task 3, Epoch 239] [Validate] Accuracy :  0.591 Loss :  3.355
+[Run 4, Task 3, Epoch 240] [Training] loss :  0.011367697, acc :  0.996, batch_idx : 120
+[Run 4, Task 3, Epoch 240] [Validate] Accuracy :  0.578 Loss :  3.63
+[Run 4, Task 3, Epoch 241] [Training] loss :  0.010185901, acc :  0.9972, batch_idx : 120
+[Run 4, Task 3, Epoch 241] [Validate] Accuracy :  0.562 Loss :  3.693
+[Run 4, Task 3, Epoch 242] [Training] loss :  0.03552715, acc :  0.9893, batch_idx : 120
+[Run 4, Task 3, Epoch 242] [Validate] Accuracy :  0.572 Loss :  3.237
+[Run 4, Task 3, Epoch 243] [Training] loss :  0.046988506, acc :  0.9862, batch_idx : 120
+[Run 4, Task 3, Epoch 243] [Validate] Accuracy :  0.594 Loss :  2.79
+[Run 4, Task 3, Epoch 244] [Training] loss :  0.020313903, acc :  0.9949, batch_idx : 120
+[Run 4, Task 3, Epoch 244] [Validate] Accuracy :   0.6 Loss :  2.939
+[Run 4, Task 3, Epoch 245] [Training] loss :  0.016504664, acc :  0.9948, batch_idx : 120
+[Run 4, Task 3, Epoch 245] [Validate] Accuracy :  0.597 Loss :  3.219
+[Run 4, Task 3, Epoch 246] [Training] loss :  0.0049380115, acc :  0.9988, batch_idx : 120
+[Run 4, Task 3, Epoch 246] [Validate] Accuracy :  0.594 Loss :  3.47
+[Run 4, Task 3, Epoch 247] [Training] loss :  0.0050379791, acc :  0.9988, batch_idx : 120
+[Run 4, Task 3, Epoch 247] [Validate] Accuracy :  0.598 Loss :  3.44
+[Run 4, Task 3, Epoch 248] [Training] loss :  0.0028421742, acc :  0.9991, batch_idx : 120
+[Run 4, Task 3, Epoch 248] [Validate] Accuracy :  0.591 Loss :  3.788
+[Run 4, Task 3, Epoch 249] [Training] loss :  0.044735272, acc :  0.9887, batch_idx : 120
+[Run 4, Task 3, Epoch 249] [Validate] Accuracy :  0.551 Loss :  3.16
+[Run 4, Task 3, Epoch 250] [Training] loss :  0.09456667, acc :  0.9712, batch_idx : 120
+[Run 4, Task 3, Epoch 250] [Validate] Accuracy :  0.576 Loss :  2.745
+[Run 4, Task 3, Epoch 251] [Training] loss :  0.030773085, acc :  0.9904, batch_idx : 120
+[Run 4, Task 3, Epoch 251] [Validate] Accuracy :  0.599 Loss :  2.877
+[Run 4, Task 3, Epoch 252] [Training] loss :  0.023225519, acc :  0.9929, batch_idx : 120
+[Run 4, Task 3, Epoch 252] [Validate] Accuracy :  0.594 Loss :  3.04
+[Run 4, Task 3, Epoch 253] [Training] loss :  0.015103076, acc :  0.996, batch_idx : 120
+[Run 4, Task 3, Epoch 253] [Validate] Accuracy :  0.589 Loss :  3.213
+[Run 4, Task 3, Epoch 254] [Training] loss :  0.01930824, acc :  0.9946, batch_idx : 120
+[Run 4, Task 3, Epoch 254] [Validate] Accuracy :   0.6 Loss :   3.2
+[Run 4, Task 3, Epoch 255] [Training] loss :  0.0086326679, acc :  0.9976, batch_idx : 120
+[Run 4, Task 3, Epoch 255] [Validate] Accuracy :  0.601 Loss :  3.274
+[Run 4, Task 3, Epoch 255] [Test] Accuracy :  0.58
+[Run 5, Task 3, Epoch 0] [Training] loss :  1.7823105, acc :  0.2111, batch_idx : 120
+[Run 5, Task 3, Epoch 0] [Validate] Accuracy :  0.206 Loss :  1.632
+[Run 5, Task 3, Epoch 1] [Training] loss :  1.6644624, acc :  0.2103, batch_idx : 120
+[Run 5, Task 3, Epoch 1] [Validate] Accuracy :  0.184 Loss :  1.647
+[Run 5, Task 3, Epoch 2] [Training] loss :   1.644421, acc :  0.2149, batch_idx : 120
+[Run 5, Task 3, Epoch 2] [Validate] Accuracy :  0.193 Loss :  1.645
+[Run 5, Task 3, Epoch 3] [Training] loss :  1.6250219, acc :  0.2261, batch_idx : 120
+[Run 5, Task 3, Epoch 3] [Validate] Accuracy :  0.279 Loss :  1.599
+[Run 5, Task 3, Epoch 4] [Training] loss :  1.5302323, acc :  0.3283, batch_idx : 120
+[Run 5, Task 3, Epoch 4] [Validate] Accuracy :  0.358 Loss :  1.494
+[Run 5, Task 3, Epoch 5] [Training] loss :  1.4030075, acc :  0.4092, batch_idx : 120
+[Run 5, Task 3, Epoch 5] [Validate] Accuracy :  0.446 Loss :  1.345
+[Run 5, Task 3, Epoch 6] [Training] loss :   1.173895, acc :  0.5399, batch_idx : 120
+[Run 5, Task 3, Epoch 6] [Validate] Accuracy :  0.53 Loss :  1.172
+[Run 5, Task 3, Epoch 7] [Training] loss :  1.0642757, acc :  0.5789, batch_idx : 120
+[Run 5, Task 3, Epoch 7] [Validate] Accuracy :  0.538 Loss :  1.139
+[Run 5, Task 3, Epoch 8] [Training] loss :  0.97846714, acc :  0.6103, batch_idx : 120
+[Run 5, Task 3, Epoch 8] [Validate] Accuracy :  0.538 Loss :  1.158
+[Run 5, Task 3, Epoch 9] [Training] loss :  0.92078727, acc :  0.6346, batch_idx : 120
+[Run 5, Task 3, Epoch 9] [Validate] Accuracy :  0.527 Loss :  1.178
+[Run 5, Task 3, Epoch 10] [Training] loss :  0.86237816, acc :  0.6593, batch_idx : 120
+[Run 5, Task 3, Epoch 10] [Validate] Accuracy :  0.551 Loss :  1.198
+[Run 5, Task 3, Epoch 11] [Training] loss :  0.77685013, acc :  0.7037, batch_idx : 120
+[Run 5, Task 3, Epoch 11] [Validate] Accuracy :  0.546 Loss :  1.216
+[Run 5, Task 3, Epoch 12] [Training] loss :  0.69810206, acc :  0.7323, batch_idx : 120
+[Run 5, Task 3, Epoch 12] [Validate] Accuracy :  0.559 Loss :  1.216
+[Run 5, Task 3, Epoch 13] [Training] loss :  0.61951407, acc :  0.7674, batch_idx : 120
+[Run 5, Task 3, Epoch 13] [Validate] Accuracy :  0.572 Loss :  1.126
+[Run 5, Task 3, Epoch 14] [Training] loss :  0.5359477, acc :  0.8084, batch_idx : 120
+[Run 5, Task 3, Epoch 14] [Validate] Accuracy :  0.605 Loss :  1.203
+[Run 5, Task 3, Epoch 15] [Training] loss :  0.48280761, acc :  0.8272, batch_idx : 120
+[Run 5, Task 3, Epoch 15] [Validate] Accuracy :  0.624 Loss :  1.233
+[Run 5, Task 3, Epoch 16] [Training] loss :  0.40661211, acc :  0.8589, batch_idx : 120
+[Run 5, Task 3, Epoch 16] [Validate] Accuracy :  0.601 Loss :  1.351
+[Run 5, Task 3, Epoch 17] [Training] loss :  0.35010319, acc :  0.8762, batch_idx : 120
+[Run 5, Task 3, Epoch 17] [Validate] Accuracy :  0.594 Loss :  1.388
+[Run 5, Task 3, Epoch 18] [Training] loss :  0.32696233, acc :  0.8853, batch_idx : 120
+[Run 5, Task 3, Epoch 18] [Validate] Accuracy :  0.61 Loss :  1.496
+[Run 5, Task 3, Epoch 19] [Training] loss :  0.27450436, acc :  0.9052, batch_idx : 120
+[Run 5, Task 3, Epoch 19] [Validate] Accuracy :  0.615 Loss :  1.492
+[Run 5, Task 3, Epoch 20] [Training] loss :  0.25952328, acc :  0.9126, batch_idx : 120
+[Run 5, Task 3, Epoch 20] [Validate] Accuracy :  0.593 Loss :  1.658
+[Run 5, Task 3, Epoch 21] [Training] loss :  0.22492904, acc :  0.9251, batch_idx : 120
+[Run 5, Task 3, Epoch 21] [Validate] Accuracy :  0.603 Loss :  1.65
+[Run 5, Task 3, Epoch 22] [Training] loss :  0.21372851, acc :  0.9306, batch_idx : 120
+[Run 5, Task 3, Epoch 22] [Validate] Accuracy :  0.608 Loss :  1.802
+[Run 5, Task 3, Epoch 23] [Training] loss :  0.19332945, acc :  0.9389, batch_idx : 120
+[Run 5, Task 3, Epoch 23] [Validate] Accuracy :  0.598 Loss :  1.827
+[Run 5, Task 3, Epoch 24] [Training] loss :  0.15756376, acc :  0.9486, batch_idx : 120
+[Run 5, Task 3, Epoch 24] [Validate] Accuracy :  0.609 Loss :  2.065
+[Run 5, Task 3, Epoch 25] [Training] loss :  0.14844194, acc :  0.9512, batch_idx : 120
+[Run 5, Task 3, Epoch 25] [Validate] Accuracy :  0.597 Loss :  2.011
+[Run 5, Task 3, Epoch 26] [Training] loss :  0.14486837, acc :  0.9521, batch_idx : 120
+[Run 5, Task 3, Epoch 26] [Validate] Accuracy :  0.607 Loss :  1.88
+[Run 5, Task 3, Epoch 27] [Training] loss :  0.15861562, acc :  0.9491, batch_idx : 120
+[Run 5, Task 3, Epoch 27] [Validate] Accuracy :  0.596 Loss :  2.11
+[Run 5, Task 3, Epoch 28] [Training] loss :  0.11228766, acc :  0.9646, batch_idx : 120
+[Run 5, Task 3, Epoch 28] [Validate] Accuracy :  0.593 Loss :  2.239
+[Run 5, Task 3, Epoch 29] [Training] loss :  0.093992482, acc :  0.9712, batch_idx : 120
+[Run 5, Task 3, Epoch 29] [Validate] Accuracy :  0.621 Loss :  2.213
+[Run 5, Task 3, Epoch 30] [Training] loss :  0.1087791, acc :  0.9666, batch_idx : 120
+[Run 5, Task 3, Epoch 30] [Validate] Accuracy :  0.608 Loss :  2.251
+[Run 5, Task 3, Epoch 31] [Training] loss :  0.095757066, acc :  0.9708, batch_idx : 120
+[Run 5, Task 3, Epoch 31] [Validate] Accuracy :  0.604 Loss :  2.347
+[Run 5, Task 3, Epoch 32] [Training] loss :  0.10425981, acc :  0.965, batch_idx : 120
+[Run 5, Task 3, Epoch 32] [Validate] Accuracy :  0.596 Loss :  2.255
+[Run 5, Task 3, Epoch 33] [Training] loss :  0.096629445, acc :  0.9717, batch_idx : 120
+[Run 5, Task 3, Epoch 33] [Validate] Accuracy :  0.612 Loss :  2.375
+[Run 5, Task 3, Epoch 34] [Training] loss :  0.080042536, acc :  0.9747, batch_idx : 120
+[Run 5, Task 3, Epoch 34] [Validate] Accuracy :  0.578 Loss :  2.634
+[Run 5, Task 3, Epoch 35] [Training] loss :  0.060245309, acc :  0.9814, batch_idx : 120
+[Run 5, Task 3, Epoch 35] [Validate] Accuracy :  0.594 Loss :  2.718
+[Run 5, Task 3, Epoch 36] [Training] loss :  0.063806828, acc :  0.9807, batch_idx : 120
+[Run 5, Task 3, Epoch 36] [Validate] Accuracy :  0.579 Loss :  2.912
+[Run 5, Task 3, Epoch 37] [Training] loss :  0.082783957, acc :  0.9739, batch_idx : 120
+[Run 5, Task 3, Epoch 37] [Validate] Accuracy :  0.566 Loss :  2.484
+[Run 5, Task 3, Epoch 38] [Training] loss :  0.065975212, acc :  0.9804, batch_idx : 120
+[Run 5, Task 3, Epoch 38] [Validate] Accuracy :  0.597 Loss :  2.609
+[Run 5, Task 3, Epoch 39] [Training] loss :  0.077518299, acc :  0.9777, batch_idx : 120
+[Run 5, Task 3, Epoch 39] [Validate] Accuracy :  0.577 Loss :  2.292
+[Run 5, Task 3, Epoch 40] [Training] loss :  0.10592233, acc :  0.9664, batch_idx : 120
+[Run 5, Task 3, Epoch 40] [Validate] Accuracy :   0.6 Loss :  2.773
+[Run 5, Task 3, Epoch 41] [Training] loss :  0.097799107, acc :  0.9679, batch_idx : 120
+[Run 5, Task 3, Epoch 41] [Validate] Accuracy :  0.593 Loss :   2.9
+[Run 5, Task 3, Epoch 42] [Training] loss :  0.062710426, acc :  0.9809, batch_idx : 120
+[Run 5, Task 3, Epoch 42] [Validate] Accuracy :  0.595 Loss :  2.727
+[Run 5, Task 3, Epoch 43] [Training] loss :  0.049195986, acc :  0.9851, batch_idx : 120
+[Run 5, Task 3, Epoch 43] [Validate] Accuracy :  0.612 Loss :  2.73
+[Run 5, Task 3, Epoch 44] [Training] loss :  0.043959319, acc :  0.9861, batch_idx : 120
+[Run 5, Task 3, Epoch 44] [Validate] Accuracy :  0.605 Loss :  2.915
+[Run 5, Task 3, Epoch 45] [Training] loss :  0.045000364, acc :  0.987, batch_idx : 120
+[Run 5, Task 3, Epoch 45] [Validate] Accuracy :  0.592 Loss :  2.997
+[Run 5, Task 3, Epoch 46] [Training] loss :  0.039096918, acc :  0.9871, batch_idx : 120
+[Run 5, Task 3, Epoch 46] [Validate] Accuracy :  0.585 Loss :  3.17
+[Run 5, Task 3, Epoch 47] [Training] loss :  0.054238672, acc :  0.9842, batch_idx : 120
+[Run 5, Task 3, Epoch 47] [Validate] Accuracy :  0.579 Loss :  2.902
+[Run 5, Task 3, Epoch 48] [Training] loss :  0.061529356, acc :  0.9803, batch_idx : 120
+[Run 5, Task 3, Epoch 48] [Validate] Accuracy :   0.6 Loss :  2.906
+[Run 5, Task 3, Epoch 49] [Training] loss :  0.051802544, acc :  0.9839, batch_idx : 120
+[Run 5, Task 3, Epoch 49] [Validate] Accuracy :  0.606 Loss :  2.84
+[Run 5, Task 3, Epoch 50] [Training] loss :  0.05679698, acc :  0.9811, batch_idx : 120
+[Run 5, Task 3, Epoch 50] [Validate] Accuracy :  0.582 Loss :   3.1
+[Run 5, Task 3, Epoch 51] [Training] loss :  0.066726958, acc :  0.978, batch_idx : 120
+[Run 5, Task 3, Epoch 51] [Validate] Accuracy :  0.592 Loss :  2.888
+[Run 5, Task 3, Epoch 52] [Training] loss :  0.046741199, acc :  0.9856, batch_idx : 120
+[Run 5, Task 3, Epoch 52] [Validate] Accuracy :  0.595 Loss :  2.855
+[Run 5, Task 3, Epoch 53] [Training] loss :  0.036604924, acc :  0.9898, batch_idx : 120
+[Run 5, Task 3, Epoch 53] [Validate] Accuracy :  0.59 Loss :  3.195
+[Run 5, Task 3, Epoch 54] [Training] loss :  0.056748482, acc :  0.9834, batch_idx : 120
+[Run 5, Task 3, Epoch 54] [Validate] Accuracy :  0.598 Loss :  2.901
+[Run 5, Task 3, Epoch 55] [Training] loss :  0.034240549, acc :  0.9912, batch_idx : 120
+[Run 5, Task 3, Epoch 55] [Validate] Accuracy :  0.602 Loss :  3.175
+[Run 5, Task 3, Epoch 56] [Training] loss :  0.032379811, acc :  0.9897, batch_idx : 120
+[Run 5, Task 3, Epoch 56] [Validate] Accuracy :  0.599 Loss :  3.306
+[Run 5, Task 3, Epoch 57] [Training] loss :  0.059097026, acc :  0.9816, batch_idx : 120
+[Run 5, Task 3, Epoch 57] [Validate] Accuracy :  0.595 Loss :  3.107
+[Run 5, Task 3, Epoch 58] [Training] loss :  0.062785308, acc :  0.9797, batch_idx : 120
+[Run 5, Task 3, Epoch 58] [Validate] Accuracy :  0.616 Loss :  2.868
+[Run 5, Task 3, Epoch 59] [Training] loss :  0.022452701, acc :  0.9934, batch_idx : 120
+[Run 5, Task 3, Epoch 59] [Validate] Accuracy :  0.607 Loss :  3.318
+[Run 5, Task 3, Epoch 60] [Training] loss :  0.019089921, acc :  0.9948, batch_idx : 120
+[Run 5, Task 3, Epoch 60] [Validate] Accuracy :  0.607 Loss :  3.319
+[Run 5, Task 3, Epoch 61] [Training] loss :  0.044322647, acc :  0.986, batch_idx : 120
+[Run 5, Task 3, Epoch 61] [Validate] Accuracy :  0.602 Loss :  3.355
+[Run 5, Task 3, Epoch 62] [Training] loss :  0.05540428, acc :  0.9831, batch_idx : 120
+[Run 5, Task 3, Epoch 62] [Validate] Accuracy :  0.617 Loss :  2.872
+[Run 5, Task 3, Epoch 63] [Training] loss :  0.041572557, acc :  0.988, batch_idx : 120
+[Run 5, Task 3, Epoch 63] [Validate] Accuracy :  0.615 Loss :  3.069
+[Run 5, Task 3, Epoch 64] [Training] loss :  0.057844686, acc :  0.9847, batch_idx : 120
+[Run 5, Task 3, Epoch 64] [Validate] Accuracy :  0.601 Loss :  2.901
+[Run 5, Task 3, Epoch 65] [Training] loss :  0.048509628, acc :  0.9859, batch_idx : 120
+[Run 5, Task 3, Epoch 65] [Validate] Accuracy :  0.61 Loss :  3.11
+[Run 5, Task 3] Early Stopping at Epoch 66, Valid Accuracy :  0.624
+[Run 5, Task 3, Epoch 66] [Test] Accuracy :  0.608
+[Run 6, Task 3, Epoch 0] [Training] loss :  1.7952567, acc :  0.2109, batch_idx : 120
+[Run 6, Task 3, Epoch 0] [Validate] Accuracy :  0.209 Loss :  1.653
+[Run 6, Task 3, Epoch 1] [Training] loss :  1.6648872, acc :  0.2091, batch_idx : 120
+[Run 6, Task 3, Epoch 1] [Validate] Accuracy :  0.185 Loss :  1.658
+[Run 6, Task 3, Epoch 2] [Training] loss :  1.6502371, acc :  0.2132, batch_idx : 120
+[Run 6, Task 3, Epoch 2] [Validate] Accuracy :  0.206 Loss :  1.645
+[Run 6, Task 3, Epoch 3] [Training] loss :  1.6389034, acc :  0.2067, batch_idx : 120
+[Run 6, Task 3, Epoch 3] [Validate] Accuracy :   0.2 Loss :  1.635
+[Run 6, Task 3, Epoch 4] [Training] loss :  1.6050763, acc :  0.2512, batch_idx : 120
+[Run 6, Task 3, Epoch 4] [Validate] Accuracy :  0.287 Loss :  1.583
+[Run 6, Task 3, Epoch 5] [Training] loss :  1.5485856, acc :  0.3007, batch_idx : 120
+[Run 6, Task 3, Epoch 5] [Validate] Accuracy :  0.31 Loss :  1.532
+[Run 6, Task 3, Epoch 6] [Training] loss :  1.3810863, acc :  0.4093, batch_idx : 120
+[Run 6, Task 3, Epoch 6] [Validate] Accuracy :  0.436 Loss :  1.335
+[Run 6, Task 3, Epoch 7] [Training] loss :  1.2150333, acc :  0.5132, batch_idx : 120
+[Run 6, Task 3, Epoch 7] [Validate] Accuracy :  0.488 Loss :  1.256
+[Run 6, Task 3, Epoch 8] [Training] loss :  1.0857085, acc :  0.5719, batch_idx : 120
+[Run 6, Task 3, Epoch 8] [Validate] Accuracy :  0.528 Loss :  1.173
+[Run 6, Task 3, Epoch 9] [Training] loss :  1.0057364, acc :  0.5999, batch_idx : 120
+[Run 6, Task 3, Epoch 9] [Validate] Accuracy :  0.543 Loss :  1.187
+[Run 6, Task 3, Epoch 10] [Training] loss :  0.95790553, acc :  0.6256, batch_idx : 120
+[Run 6, Task 3, Epoch 10] [Validate] Accuracy :  0.534 Loss :  1.189
+[Run 6, Task 3, Epoch 11] [Training] loss :  0.89480892, acc :  0.6489, batch_idx : 120
+[Run 6, Task 3, Epoch 11] [Validate] Accuracy :  0.552 Loss :  1.153
+[Run 6, Task 3, Epoch 12] [Training] loss :  0.82868874, acc :  0.6787, batch_idx : 120
+[Run 6, Task 3, Epoch 12] [Validate] Accuracy :  0.553 Loss :  1.178
+[Run 6, Task 3, Epoch 13] [Training] loss :  0.77141918, acc :  0.7053, batch_idx : 120
+[Run 6, Task 3, Epoch 13] [Validate] Accuracy :  0.555 Loss :  1.167
+[Run 6, Task 3, Epoch 14] [Training] loss :  0.72326413, acc :  0.7257, batch_idx : 120
+[Run 6, Task 3, Epoch 14] [Validate] Accuracy :  0.563 Loss :  1.254
+[Run 6, Task 3, Epoch 15] [Training] loss :  0.65438492, acc :  0.7527, batch_idx : 120
+[Run 6, Task 3, Epoch 15] [Validate] Accuracy :  0.537 Loss :  1.352
+[Run 6, Task 3, Epoch 16] [Training] loss :  0.60383291, acc :  0.7769, batch_idx : 120
+[Run 6, Task 3, Epoch 16] [Validate] Accuracy :  0.566 Loss :  1.321
+[Run 6, Task 3, Epoch 17] [Training] loss :  0.53552439, acc :  0.8063, batch_idx : 120
+[Run 6, Task 3, Epoch 17] [Validate] Accuracy :  0.566 Loss :  1.363
+[Run 6, Task 3, Epoch 18] [Training] loss :  0.48065805, acc :  0.8242, batch_idx : 120
+[Run 6, Task 3, Epoch 18] [Validate] Accuracy :  0.57 Loss :  1.527
+[Run 6, Task 3, Epoch 19] [Training] loss :  0.43646317, acc :  0.8433, batch_idx : 120
+[Run 6, Task 3, Epoch 19] [Validate] Accuracy :  0.567 Loss :  1.487
+[Run 6, Task 3, Epoch 20] [Training] loss :  0.39302074, acc :  0.8579, batch_idx : 120
+[Run 6, Task 3, Epoch 20] [Validate] Accuracy :  0.546 Loss :  1.775
+[Run 6, Task 3, Epoch 21] [Training] loss :  0.38521707, acc :  0.8623, batch_idx : 120
+[Run 6, Task 3, Epoch 21] [Validate] Accuracy :  0.529 Loss :  1.77
+[Run 6, Task 3, Epoch 22] [Training] loss :  0.31161286, acc :  0.8911, batch_idx : 120
+[Run 6, Task 3, Epoch 22] [Validate] Accuracy :  0.559 Loss :  1.92
+[Run 6, Task 3, Epoch 23] [Training] loss :  0.27964215, acc :  0.902, batch_idx : 120
+[Run 6, Task 3, Epoch 23] [Validate] Accuracy :  0.534 Loss :  2.018
+[Run 6, Task 3, Epoch 24] [Training] loss :  0.25220671, acc :  0.9111, batch_idx : 120
+[Run 6, Task 3, Epoch 24] [Validate] Accuracy :  0.531 Loss :  2.115
+[Run 6, Task 3, Epoch 25] [Training] loss :  0.23690102, acc :  0.9167, batch_idx : 120
+[Run 6, Task 3, Epoch 25] [Validate] Accuracy :  0.53 Loss :  2.26
+[Run 6, Task 3, Epoch 26] [Training] loss :  0.21935512, acc :  0.9267, batch_idx : 120
+[Run 6, Task 3, Epoch 26] [Validate] Accuracy :  0.534 Loss :  2.414
+[Run 6, Task 3, Epoch 27] [Training] loss :  0.17264269, acc :  0.9437, batch_idx : 120
+[Run 6, Task 3, Epoch 27] [Validate] Accuracy :  0.524 Loss :  2.553
+[Run 6, Task 3, Epoch 28] [Training] loss :  0.15955443, acc :  0.9468, batch_idx : 120
+[Run 6, Task 3, Epoch 28] [Validate] Accuracy :  0.536 Loss :  2.48
+[Run 6, Task 3, Epoch 29] [Training] loss :  0.15130867, acc :  0.9482, batch_idx : 120
+[Run 6, Task 3, Epoch 29] [Validate] Accuracy :   0.5 Loss :  2.791
+[Run 6, Task 3, Epoch 30] [Training] loss :  0.14453784, acc :  0.9516, batch_idx : 120
+[Run 6, Task 3, Epoch 30] [Validate] Accuracy :  0.526 Loss :  2.822
+[Run 6, Task 3, Epoch 31] [Training] loss :  0.12720509, acc :  0.9569, batch_idx : 120
+[Run 6, Task 3, Epoch 31] [Validate] Accuracy :  0.502 Loss :  3.053
+[Run 6, Task 3, Epoch 32] [Training] loss :  0.12997094, acc :  0.9547, batch_idx : 120
+[Run 6, Task 3, Epoch 32] [Validate] Accuracy :  0.515 Loss :  3.198
+[Run 6, Task 3, Epoch 33] [Training] loss :  0.11814385, acc :  0.9632, batch_idx : 120
+[Run 6, Task 3, Epoch 33] [Validate] Accuracy :  0.521 Loss :  3.092
+[Run 6, Task 3, Epoch 34] [Training] loss :  0.097063265, acc :  0.9696, batch_idx : 120
+[Run 6, Task 3, Epoch 34] [Validate] Accuracy :  0.502 Loss :  3.235
+[Run 6, Task 3, Epoch 35] [Training] loss :  0.080622706, acc :  0.9751, batch_idx : 120
+[Run 6, Task 3, Epoch 35] [Validate] Accuracy :  0.531 Loss :  3.374
+[Run 6, Task 3, Epoch 36] [Training] loss :  0.072205963, acc :  0.9762, batch_idx : 120
+[Run 6, Task 3, Epoch 36] [Validate] Accuracy :  0.52 Loss :  3.504
+[Run 6, Task 3, Epoch 37] [Training] loss :  0.057250194, acc :  0.9818, batch_idx : 120
+[Run 6, Task 3, Epoch 37] [Validate] Accuracy :  0.508 Loss :  3.595
+[Run 6, Task 3, Epoch 38] [Training] loss :  0.075237007, acc :  0.9778, batch_idx : 120
+[Run 6, Task 3, Epoch 38] [Validate] Accuracy :  0.522 Loss :  3.522
+[Run 6, Task 3, Epoch 39] [Training] loss :  0.17107734, acc :  0.9421, batch_idx : 120
+[Run 6, Task 3, Epoch 39] [Validate] Accuracy :  0.523 Loss :  2.898
+[Run 6, Task 3, Epoch 40] [Training] loss :  0.07172507, acc :  0.9799, batch_idx : 120
+[Run 6, Task 3, Epoch 40] [Validate] Accuracy :  0.529 Loss :  3.525
+[Run 6, Task 3, Epoch 41] [Training] loss :  0.037845947, acc :  0.9888, batch_idx : 120
+[Run 6, Task 3, Epoch 41] [Validate] Accuracy :  0.526 Loss :  3.912
+[Run 6, Task 3, Epoch 42] [Training] loss :  0.060442993, acc :  0.9803, batch_idx : 120
+[Run 6, Task 3, Epoch 42] [Validate] Accuracy :  0.525 Loss :  3.896
+[Run 6, Task 3, Epoch 43] [Training] loss :  0.071228104, acc :  0.9772, batch_idx : 120
+[Run 6, Task 3, Epoch 43] [Validate] Accuracy :  0.53 Loss :  3.757
+[Run 6, Task 3, Epoch 44] [Training] loss :  0.095678464, acc :  0.9704, batch_idx : 120
+[Run 6, Task 3, Epoch 44] [Validate] Accuracy :  0.514 Loss :  3.543
+[Run 6, Task 3, Epoch 45] [Training] loss :  0.053663306, acc :  0.9837, batch_idx : 120
+[Run 6, Task 3, Epoch 45] [Validate] Accuracy :  0.506 Loss :  3.969
+[Run 6, Task 3, Epoch 46] [Training] loss :  0.065811915, acc :  0.9796, batch_idx : 120
+[Run 6, Task 3, Epoch 46] [Validate] Accuracy :  0.506 Loss :  3.969
+[Run 6, Task 3, Epoch 47] [Training] loss :  0.064046591, acc :  0.9787, batch_idx : 120
+[Run 6, Task 3, Epoch 47] [Validate] Accuracy :  0.513 Loss :  3.963
+[Run 6, Task 3, Epoch 48] [Training] loss :  0.080442074, acc :  0.9773, batch_idx : 120
+[Run 6, Task 3, Epoch 48] [Validate] Accuracy :  0.502 Loss :  3.606
+[Run 6, Task 3, Epoch 49] [Training] loss :  0.077099915, acc :  0.976, batch_idx : 120
+[Run 6, Task 3, Epoch 49] [Validate] Accuracy :  0.51 Loss :  3.859
+[Run 6, Task 3, Epoch 50] [Training] loss :  0.071891258, acc :  0.9783, batch_idx : 120
+[Run 6, Task 3, Epoch 50] [Validate] Accuracy :  0.517 Loss :  3.639
+[Run 6, Task 3, Epoch 51] [Training] loss :  0.07681301, acc :  0.9752, batch_idx : 120
+[Run 6, Task 3, Epoch 51] [Validate] Accuracy :  0.51 Loss :  3.597
+[Run 6, Task 3, Epoch 52] [Training] loss :  0.06265366, acc :  0.9793, batch_idx : 120
+[Run 6, Task 3, Epoch 52] [Validate] Accuracy :  0.525 Loss :  3.737
+[Run 6, Task 3, Epoch 53] [Training] loss :  0.028969874, acc :  0.9918, batch_idx : 120
+[Run 6, Task 3, Epoch 53] [Validate] Accuracy :  0.51 Loss :  4.085
+[Run 6, Task 3, Epoch 54] [Training] loss :  0.018694825, acc :  0.9943, batch_idx : 120
+[Run 6, Task 3, Epoch 54] [Validate] Accuracy :  0.496 Loss :  4.486
+[Run 6, Task 3, Epoch 55] [Training] loss :  0.012664581, acc :  0.9973, batch_idx : 120
+[Run 6, Task 3, Epoch 55] [Validate] Accuracy :  0.516 Loss :  4.58
+[Run 6, Task 3, Epoch 56] [Training] loss :  0.0075323163, acc :  0.9989, batch_idx : 120
+[Run 6, Task 3, Epoch 56] [Validate] Accuracy :  0.515 Loss :  4.756
+[Run 6, Task 3, Epoch 57] [Training] loss :  0.0084766159, acc :  0.9974, batch_idx : 120
+[Run 6, Task 3, Epoch 57] [Validate] Accuracy :  0.516 Loss :  4.817
+[Run 6, Task 3, Epoch 58] [Training] loss :  0.016948406, acc :  0.9951, batch_idx : 120
+[Run 6, Task 3, Epoch 58] [Validate] Accuracy :  0.521 Loss :  4.677
+[Run 6, Task 3, Epoch 59] [Training] loss :  0.08348068, acc :  0.9749, batch_idx : 120
+[Run 6, Task 3, Epoch 59] [Validate] Accuracy :  0.511 Loss :  4.156
+[Run 6, Task 3, Epoch 60] [Training] loss :  0.088398092, acc :  0.9712, batch_idx : 120
+[Run 6, Task 3, Epoch 60] [Validate] Accuracy :  0.524 Loss :  3.841
+[Run 6, Task 3, Epoch 61] [Training] loss :  0.054555842, acc :  0.9822, batch_idx : 120
+[Run 6, Task 3, Epoch 61] [Validate] Accuracy :  0.52 Loss :  4.065
+[Run 6, Task 3, Epoch 62] [Training] loss :  0.050267993, acc :  0.9849, batch_idx : 120
+[Run 6, Task 3, Epoch 62] [Validate] Accuracy :  0.522 Loss :  4.077
+[Run 6, Task 3, Epoch 63] [Training] loss :  0.035010951, acc :  0.9894, batch_idx : 120
+[Run 6, Task 3, Epoch 63] [Validate] Accuracy :  0.534 Loss :  4.254
+[Run 6, Task 3, Epoch 64] [Training] loss :  0.053917599, acc :  0.9834, batch_idx : 120
+[Run 6, Task 3, Epoch 64] [Validate] Accuracy :  0.494 Loss :  4.39
+[Run 6, Task 3, Epoch 65] [Training] loss :  0.058990991, acc :  0.9823, batch_idx : 120
+[Run 6, Task 3, Epoch 65] [Validate] Accuracy :  0.517 Loss :  3.993
+[Run 6, Task 3, Epoch 66] [Training] loss :  0.055805838, acc :  0.9846, batch_idx : 120
+[Run 6, Task 3, Epoch 66] [Validate] Accuracy :  0.518 Loss :  3.906
+[Run 6, Task 3, Epoch 67] [Training] loss :  0.054363277, acc :  0.9812, batch_idx : 120
+[Run 6, Task 3, Epoch 67] [Validate] Accuracy :  0.509 Loss :  3.998
+[Run 6, Task 3, Epoch 68] [Training] loss :  0.02810447, acc :  0.9912, batch_idx : 120
+[Run 6, Task 3, Epoch 68] [Validate] Accuracy :  0.531 Loss :  4.23
+[Run 6, Task 3] Early Stopping at Epoch 69, Valid Accuracy :  0.57
+[Run 6, Task 3, Epoch 69] [Test] Accuracy :  0.498
+[Run 7, Task 3, Epoch 0] [Training] loss :  1.8630684, acc :  0.1968, batch_idx : 120
+[Run 7, Task 3, Epoch 0] [Validate] Accuracy :  0.175 Loss :  1.694
+[Run 7, Task 3, Epoch 1] [Training] loss :  1.6591964, acc :  0.2034, batch_idx : 120
+[Run 7, Task 3, Epoch 1] [Validate] Accuracy :  0.178 Loss :  1.659
+[Run 7, Task 3, Epoch 2] [Training] loss :  1.6454503, acc :  0.2026, batch_idx : 120
+[Run 7, Task 3, Epoch 2] [Validate] Accuracy :  0.196 Loss :  1.658
+[Run 7, Task 3, Epoch 3] [Training] loss :  1.6262295, acc :  0.2247, batch_idx : 120
+[Run 7, Task 3, Epoch 3] [Validate] Accuracy :  0.181 Loss :  1.655
+[Run 7, Task 3, Epoch 4] [Training] loss :  1.5457277, acc :  0.3139, batch_idx : 120
+[Run 7, Task 3, Epoch 4] [Validate] Accuracy :  0.338 Loss :  1.534
+[Run 7, Task 3, Epoch 5] [Training] loss :  1.3841498, acc :  0.4268, batch_idx : 120
+[Run 7, Task 3, Epoch 5] [Validate] Accuracy :  0.488 Loss :  1.301
+[Run 7, Task 3, Epoch 6] [Training] loss :  1.1645278, acc :  0.5416, batch_idx : 120
+[Run 7, Task 3, Epoch 6] [Validate] Accuracy :  0.489 Loss :  1.259
+[Run 7, Task 3, Epoch 7] [Training] loss :  1.0573828, acc :  0.5838, batch_idx : 120
+[Run 7, Task 3, Epoch 7] [Validate] Accuracy :  0.514 Loss :  1.16
+[Run 7, Task 3, Epoch 8] [Training] loss :  0.98802444, acc :  0.6153, batch_idx : 120
+[Run 7, Task 3, Epoch 8] [Validate] Accuracy :  0.523 Loss :  1.185
+[Run 7, Task 3, Epoch 9] [Training] loss :  0.94879987, acc :  0.6269, batch_idx : 120
+[Run 7, Task 3, Epoch 9] [Validate] Accuracy :  0.533 Loss :  1.198
+[Run 7, Task 3, Epoch 10] [Training] loss :  0.86804132, acc :  0.6686, batch_idx : 120
+[Run 7, Task 3, Epoch 10] [Validate] Accuracy :  0.542 Loss :  1.18
+[Run 7, Task 3, Epoch 11] [Training] loss :  0.80651982, acc :  0.6883, batch_idx : 120
+[Run 7, Task 3, Epoch 11] [Validate] Accuracy :  0.526 Loss :  1.23
+[Run 7, Task 3, Epoch 12] [Training] loss :  0.74583445, acc :  0.715, batch_idx : 120
+[Run 7, Task 3, Epoch 12] [Validate] Accuracy :  0.537 Loss :  1.213
+[Run 7, Task 3, Epoch 13] [Training] loss :  0.67750879, acc :  0.7466, batch_idx : 120
+[Run 7, Task 3, Epoch 13] [Validate] Accuracy :  0.511 Loss :  1.351
+[Run 7, Task 3, Epoch 14] [Training] loss :  0.62159348, acc :  0.7706, batch_idx : 120
+[Run 7, Task 3, Epoch 14] [Validate] Accuracy :  0.532 Loss :  1.309
+[Run 7, Task 3, Epoch 15] [Training] loss :  0.56245288, acc :  0.7956, batch_idx : 120
+[Run 7, Task 3, Epoch 15] [Validate] Accuracy :  0.526 Loss :  1.481
+[Run 7, Task 3, Epoch 16] [Training] loss :  0.48084697, acc :  0.8364, batch_idx : 120
+[Run 7, Task 3, Epoch 16] [Validate] Accuracy :  0.52 Loss :  1.554
+[Run 7, Task 3, Epoch 17] [Training] loss :  0.46279312, acc :  0.8372, batch_idx : 120
+[Run 7, Task 3, Epoch 17] [Validate] Accuracy :  0.501 Loss :  1.641
+[Run 7, Task 3, Epoch 18] [Training] loss :  0.42730791, acc :  0.8524, batch_idx : 120
+[Run 7, Task 3, Epoch 18] [Validate] Accuracy :  0.503 Loss :  1.747
+[Run 7, Task 3, Epoch 19] [Training] loss :  0.36449681, acc :  0.8753, batch_idx : 120
+[Run 7, Task 3, Epoch 19] [Validate] Accuracy :  0.529 Loss :  1.729
+[Run 7, Task 3, Epoch 20] [Training] loss :  0.30465438, acc :  0.8974, batch_idx : 120
+[Run 7, Task 3, Epoch 20] [Validate] Accuracy :  0.515 Loss :  1.797
+[Run 7, Task 3, Epoch 21] [Training] loss :  0.28250034, acc :  0.9067, batch_idx : 120
+[Run 7, Task 3, Epoch 21] [Validate] Accuracy :  0.519 Loss :  1.777
+[Run 7, Task 3, Epoch 22] [Training] loss :  0.2646879, acc :  0.9103, batch_idx : 120
+[Run 7, Task 3, Epoch 22] [Validate] Accuracy :  0.538 Loss :  2.178
+[Run 7, Task 3, Epoch 23] [Training] loss :  0.23680068, acc :  0.9236, batch_idx : 120
+[Run 7, Task 3, Epoch 23] [Validate] Accuracy :  0.491 Loss :  2.052
+[Run 7, Task 3, Epoch 24] [Training] loss :  0.22000708, acc :  0.9308, batch_idx : 120
+[Run 7, Task 3, Epoch 24] [Validate] Accuracy :  0.513 Loss :  2.207
+[Run 7, Task 3, Epoch 25] [Training] loss :  0.19232046, acc :  0.9401, batch_idx : 120
+[Run 7, Task 3, Epoch 25] [Validate] Accuracy :  0.514 Loss :  2.333
+[Run 7, Task 3, Epoch 26] [Training] loss :  0.19556908, acc :  0.9372, batch_idx : 120
+[Run 7, Task 3, Epoch 26] [Validate] Accuracy :  0.503 Loss :  2.486
+[Run 7, Task 3, Epoch 27] [Training] loss :  0.19313252, acc :  0.9359, batch_idx : 120
+[Run 7, Task 3, Epoch 27] [Validate] Accuracy :  0.506 Loss :  2.615
+[Run 7, Task 3, Epoch 28] [Training] loss :  0.19068722, acc :  0.9376, batch_idx : 120
+[Run 7, Task 3, Epoch 28] [Validate] Accuracy :  0.51 Loss :  2.505
+[Run 7, Task 3, Epoch 29] [Training] loss :  0.1416474, acc :  0.9542, batch_idx : 120
+[Run 7, Task 3, Epoch 29] [Validate] Accuracy :  0.505 Loss :  2.707
+[Run 7, Task 3, Epoch 30] [Training] loss :  0.12520413, acc :  0.96, batch_idx : 120
+[Run 7, Task 3, Epoch 30] [Validate] Accuracy :  0.519 Loss :  2.975
+[Run 7, Task 3, Epoch 31] [Training] loss :  0.10505286, acc :  0.9703, batch_idx : 120
+[Run 7, Task 3, Epoch 31] [Validate] Accuracy :  0.533 Loss :  2.896
+[Run 7, Task 3, Epoch 32] [Training] loss :  0.09528193, acc :  0.9721, batch_idx : 120
+[Run 7, Task 3, Epoch 32] [Validate] Accuracy :  0.496 Loss :  3.169
+[Run 7, Task 3, Epoch 33] [Training] loss :  0.14405469, acc :  0.955, batch_idx : 120
+[Run 7, Task 3, Epoch 33] [Validate] Accuracy :  0.484 Loss :  2.783
+[Run 7, Task 3, Epoch 34] [Training] loss :  0.14887201, acc :  0.9518, batch_idx : 120
+[Run 7, Task 3, Epoch 34] [Validate] Accuracy :  0.504 Loss :  2.962
+[Run 7, Task 3, Epoch 35] [Training] loss :  0.10980526, acc :  0.9658, batch_idx : 120
+[Run 7, Task 3, Epoch 35] [Validate] Accuracy :  0.491 Loss :  3.244
+[Run 7, Task 3, Epoch 36] [Training] loss :  0.10745835, acc :  0.967, batch_idx : 120
+[Run 7, Task 3, Epoch 36] [Validate] Accuracy :  0.507 Loss :  2.884
+[Run 7, Task 3, Epoch 37] [Training] loss :  0.091458608, acc :  0.9737, batch_idx : 120
+[Run 7, Task 3, Epoch 37] [Validate] Accuracy :  0.511 Loss :  3.208
+[Run 7, Task 3, Epoch 38] [Training] loss :  0.076362339, acc :  0.9764, batch_idx : 120
+[Run 7, Task 3, Epoch 38] [Validate] Accuracy :  0.516 Loss :  3.297
+[Run 7, Task 3, Epoch 39] [Training] loss :  0.053555021, acc :  0.9829, batch_idx : 120
+[Run 7, Task 3, Epoch 39] [Validate] Accuracy :  0.509 Loss :  3.529
+[Run 7, Task 3, Epoch 40] [Training] loss :  0.10958427, acc :  0.9649, batch_idx : 120
+[Run 7, Task 3, Epoch 40] [Validate] Accuracy :  0.511 Loss :  3.086
+[Run 7, Task 3, Epoch 41] [Training] loss :  0.095002237, acc :  0.9726, batch_idx : 120
+[Run 7, Task 3, Epoch 41] [Validate] Accuracy :  0.513 Loss :  3.09
+[Run 7, Task 3, Epoch 42] [Training] loss :  0.074769573, acc :  0.9762, batch_idx : 120
+[Run 7, Task 3, Epoch 42] [Validate] Accuracy :  0.524 Loss :  3.405
+[Run 7, Task 3, Epoch 43] [Training] loss :  0.060282878, acc :  0.9834, batch_idx : 120
+[Run 7, Task 3, Epoch 43] [Validate] Accuracy :  0.515 Loss :  3.322
+[Run 7, Task 3, Epoch 44] [Training] loss :  0.078461217, acc :  0.9741, batch_idx : 120
+[Run 7, Task 3, Epoch 44] [Validate] Accuracy :  0.496 Loss :  3.522
+[Run 7, Task 3, Epoch 45] [Training] loss :  0.13615826, acc :  0.9576, batch_idx : 120
+[Run 7, Task 3, Epoch 45] [Validate] Accuracy :  0.512 Loss :  3.199
+[Run 7, Task 3, Epoch 46] [Training] loss :  0.065209785, acc :  0.9802, batch_idx : 120
+[Run 7, Task 3, Epoch 46] [Validate] Accuracy :  0.509 Loss :  3.397
+[Run 7, Task 3, Epoch 47] [Training] loss :  0.039801536, acc :  0.99, batch_idx : 120
+[Run 7, Task 3, Epoch 47] [Validate] Accuracy :  0.505 Loss :  3.678
+[Run 7, Task 3, Epoch 48] [Training] loss :  0.050734579, acc :  0.9854, batch_idx : 120
+[Run 7, Task 3, Epoch 48] [Validate] Accuracy :  0.517 Loss :  3.716
+[Run 7, Task 3, Epoch 49] [Training] loss :  0.043102688, acc :  0.9884, batch_idx : 120
+[Run 7, Task 3, Epoch 49] [Validate] Accuracy :  0.511 Loss :  3.867
+[Run 7, Task 3, Epoch 50] [Training] loss :  0.075885731, acc :  0.977, batch_idx : 120
+[Run 7, Task 3, Epoch 50] [Validate] Accuracy :  0.508 Loss :   3.5
+[Run 7, Task 3, Epoch 51] [Training] loss :  0.078768856, acc :  0.9742, batch_idx : 120
+[Run 7, Task 3, Epoch 51] [Validate] Accuracy :  0.517 Loss :  3.81
+[Run 7, Task 3, Epoch 52] [Training] loss :  0.043741131, acc :  0.9863, batch_idx : 120
+[Run 7, Task 3, Epoch 52] [Validate] Accuracy :  0.533 Loss :  4.138
+[Run 7, Task 3, Epoch 53] [Training] loss :  0.042796905, acc :  0.9876, batch_idx : 120
+[Run 7, Task 3, Epoch 53] [Validate] Accuracy :  0.512 Loss :  4.088
+[Run 7, Task 3, Epoch 54] [Training] loss :  0.07537524, acc :  0.9764, batch_idx : 120
+[Run 7, Task 3, Epoch 54] [Validate] Accuracy :  0.511 Loss :  3.766
+[Run 7, Task 3, Epoch 55] [Training] loss :  0.050389042, acc :  0.9842, batch_idx : 120
+[Run 7, Task 3, Epoch 55] [Validate] Accuracy :  0.497 Loss :  4.181
+[Run 7, Task 3, Epoch 56] [Training] loss :  0.041620737, acc :  0.9876, batch_idx : 120
+[Run 7, Task 3, Epoch 56] [Validate] Accuracy :  0.503 Loss :  3.759
+[Run 7, Task 3, Epoch 57] [Training] loss :  0.062599042, acc :  0.9822, batch_idx : 120
+[Run 7, Task 3, Epoch 57] [Validate] Accuracy :  0.477 Loss :  3.679
+[Run 7, Task 3, Epoch 58] [Training] loss :  0.087476676, acc :  0.9748, batch_idx : 120
+[Run 7, Task 3, Epoch 58] [Validate] Accuracy :  0.499 Loss :  3.803
+[Run 7, Task 3, Epoch 59] [Training] loss :  0.034928702, acc :  0.9889, batch_idx : 120
+[Run 7, Task 3, Epoch 59] [Validate] Accuracy :  0.491 Loss :  4.125
+[Run 7, Task 3, Epoch 60] [Training] loss :  0.036734695, acc :  0.9888, batch_idx : 120
+[Run 7, Task 3, Epoch 60] [Validate] Accuracy :  0.491 Loss :  3.877
+[Run 7, Task 3] Early Stopping at Epoch 61, Valid Accuracy :  0.542
+[Run 7, Task 3, Epoch 61] [Test] Accuracy :  0.517
+[Run 8, Task 3, Epoch 0] [Training] loss :  1.8456596, acc :  0.1983, batch_idx : 120
+[Run 8, Task 3, Epoch 0] [Validate] Accuracy :  0.195 Loss :  1.659
+[Run 8, Task 3, Epoch 1] [Training] loss :  1.6587127, acc :  0.2071, batch_idx : 120
+[Run 8, Task 3, Epoch 1] [Validate] Accuracy :  0.173 Loss :  1.678
+[Run 8, Task 3, Epoch 2] [Training] loss :  1.6454652, acc :  0.2141, batch_idx : 120
+[Run 8, Task 3, Epoch 2] [Validate] Accuracy :  0.245 Loss :  1.617
+[Run 8, Task 3, Epoch 3] [Training] loss :  1.5650795, acc :  0.2923, batch_idx : 120
+[Run 8, Task 3, Epoch 3] [Validate] Accuracy :  0.343 Loss :  1.552
+[Run 8, Task 3, Epoch 4] [Training] loss :  1.3367621, acc :  0.4639, batch_idx : 120
+[Run 8, Task 3, Epoch 4] [Validate] Accuracy :  0.504 Loss :  1.236
+[Run 8, Task 3, Epoch 5] [Training] loss :  1.1167001, acc :  0.565, batch_idx : 120
+[Run 8, Task 3, Epoch 5] [Validate] Accuracy :  0.524 Loss :  1.208
+[Run 8, Task 3, Epoch 6] [Training] loss :  1.0297234, acc :  0.5979, batch_idx : 120
+[Run 8, Task 3, Epoch 6] [Validate] Accuracy :  0.513 Loss :  1.155
+[Run 8, Task 3, Epoch 7] [Training] loss :  0.97057321, acc :  0.6196, batch_idx : 120
+[Run 8, Task 3, Epoch 7] [Validate] Accuracy :  0.539 Loss :  1.129
+[Run 8, Task 3, Epoch 8] [Training] loss :  0.90608334, acc :  0.6447, batch_idx : 120
+[Run 8, Task 3, Epoch 8] [Validate] Accuracy :  0.494 Loss :  1.257
+[Run 8, Task 3, Epoch 9] [Training] loss :  0.83908291, acc :  0.68, batch_idx : 120
+[Run 8, Task 3, Epoch 9] [Validate] Accuracy :  0.524 Loss :  1.212
+[Run 8, Task 3, Epoch 10] [Training] loss :  0.75516413, acc :  0.7117, batch_idx : 120
+[Run 8, Task 3, Epoch 10] [Validate] Accuracy :  0.533 Loss :  1.204
+[Run 8, Task 3, Epoch 11] [Training] loss :  0.67853424, acc :  0.7503, batch_idx : 120
+[Run 8, Task 3, Epoch 11] [Validate] Accuracy :  0.515 Loss :  1.375
+[Run 8, Task 3, Epoch 12] [Training] loss :  0.60700535, acc :  0.7827, batch_idx : 120
+[Run 8, Task 3, Epoch 12] [Validate] Accuracy :  0.504 Loss :  1.35
+[Run 8, Task 3, Epoch 13] [Training] loss :  0.55211203, acc :  0.7998, batch_idx : 120
+[Run 8, Task 3, Epoch 13] [Validate] Accuracy :  0.518 Loss :  1.499
+[Run 8, Task 3, Epoch 14] [Training] loss :  0.49367364, acc :  0.8243, batch_idx : 120
+[Run 8, Task 3, Epoch 14] [Validate] Accuracy :  0.503 Loss :  1.657
+[Run 8, Task 3, Epoch 15] [Training] loss :  0.41834547, acc :  0.8562, batch_idx : 120
+[Run 8, Task 3, Epoch 15] [Validate] Accuracy :  0.522 Loss :  1.614
+[Run 8, Task 3, Epoch 16] [Training] loss :  0.37746232, acc :  0.872, batch_idx : 120
+[Run 8, Task 3, Epoch 16] [Validate] Accuracy :  0.524 Loss :  1.685
+[Run 8, Task 3, Epoch 17] [Training] loss :  0.3258289, acc :  0.8942, batch_idx : 120
+[Run 8, Task 3, Epoch 17] [Validate] Accuracy :  0.515 Loss :  1.868
+[Run 8, Task 3, Epoch 18] [Training] loss :  0.28290043, acc :  0.9061, batch_idx : 120
+[Run 8, Task 3, Epoch 18] [Validate] Accuracy :  0.522 Loss :  2.011
+[Run 8, Task 3, Epoch 19] [Training] loss :  0.26725326, acc :  0.9146, batch_idx : 120
+[Run 8, Task 3, Epoch 19] [Validate] Accuracy :  0.516 Loss :  1.795
+[Run 8, Task 3, Epoch 20] [Training] loss :  0.22866114, acc :  0.9297, batch_idx : 120
+[Run 8, Task 3, Epoch 20] [Validate] Accuracy :  0.513 Loss :  2.153
+[Run 8, Task 3, Epoch 21] [Training] loss :  0.20649205, acc :  0.9321, batch_idx : 120
+[Run 8, Task 3, Epoch 21] [Validate] Accuracy :  0.521 Loss :  2.038
+[Run 8, Task 3, Epoch 22] [Training] loss :  0.18803292, acc :  0.9414, batch_idx : 120
+[Run 8, Task 3, Epoch 22] [Validate] Accuracy :  0.505 Loss :  2.179
+[Run 8, Task 3, Epoch 23] [Training] loss :  0.17994502, acc :  0.9417, batch_idx : 120
+[Run 8, Task 3, Epoch 23] [Validate] Accuracy :  0.525 Loss :  2.139
+[Run 8, Task 3, Epoch 24] [Training] loss :  0.15556074, acc :  0.9512, batch_idx : 120
+[Run 8, Task 3, Epoch 24] [Validate] Accuracy :  0.507 Loss :  2.529
+[Run 8, Task 3, Epoch 25] [Training] loss :  0.1632455, acc :  0.9472, batch_idx : 120
+[Run 8, Task 3, Epoch 25] [Validate] Accuracy :  0.503 Loss :  2.372
+[Run 8, Task 3, Epoch 26] [Training] loss :  0.15578021, acc :  0.951, batch_idx : 120
+[Run 8, Task 3, Epoch 26] [Validate] Accuracy :  0.506 Loss :  2.512
+[Run 8, Task 3, Epoch 27] [Training] loss :  0.1184176, acc :  0.9621, batch_idx : 120
+[Run 8, Task 3, Epoch 27] [Validate] Accuracy :   0.5 Loss :  2.685
+[Run 8, Task 3, Epoch 28] [Training] loss :  0.099050709, acc :  0.9706, batch_idx : 120
+[Run 8, Task 3, Epoch 28] [Validate] Accuracy :  0.47 Loss :  2.909
+[Run 8, Task 3, Epoch 29] [Training] loss :  0.12373986, acc :  0.9623, batch_idx : 120
+[Run 8, Task 3, Epoch 29] [Validate] Accuracy :  0.507 Loss :  2.545
+[Run 8, Task 3, Epoch 30] [Training] loss :  0.12261714, acc :  0.9634, batch_idx : 120
+[Run 8, Task 3, Epoch 30] [Validate] Accuracy :  0.487 Loss :  2.855
+[Run 8, Task 3, Epoch 31] [Training] loss :  0.14574179, acc :  0.9538, batch_idx : 120
+[Run 8, Task 3, Epoch 31] [Validate] Accuracy :  0.508 Loss :  2.592
+[Run 8, Task 3, Epoch 32] [Training] loss :  0.088879347, acc :  0.9723, batch_idx : 120
+[Run 8, Task 3, Epoch 32] [Validate] Accuracy :  0.495 Loss :  2.849
+[Run 8, Task 3, Epoch 33] [Training] loss :  0.065113759, acc :  0.9821, batch_idx : 120
+[Run 8, Task 3, Epoch 33] [Validate] Accuracy :  0.522 Loss :  3.07
+[Run 8, Task 3, Epoch 34] [Training] loss :  0.072632274, acc :  0.9798, batch_idx : 120
+[Run 8, Task 3, Epoch 34] [Validate] Accuracy :  0.494 Loss :  3.339
+[Run 8, Task 3, Epoch 35] [Training] loss :  0.1028878, acc :  0.9671, batch_idx : 120
+[Run 8, Task 3, Epoch 35] [Validate] Accuracy :  0.481 Loss :  2.937
+[Run 8, Task 3, Epoch 36] [Training] loss :  0.09421331, acc :  0.9713, batch_idx : 120
+[Run 8, Task 3, Epoch 36] [Validate] Accuracy :  0.516 Loss :  2.968
+[Run 8, Task 3, Epoch 37] [Training] loss :  0.061245036, acc :  0.9809, batch_idx : 120
+[Run 8, Task 3, Epoch 37] [Validate] Accuracy :  0.52 Loss :  2.848
+[Run 8, Task 3, Epoch 38] [Training] loss :  0.05755881, acc :  0.984, batch_idx : 120
+[Run 8, Task 3, Epoch 38] [Validate] Accuracy :  0.492 Loss :  3.449
+[Run 8, Task 3, Epoch 39] [Training] loss :  0.10353664, acc :  0.9661, batch_idx : 120
+[Run 8, Task 3, Epoch 39] [Validate] Accuracy :  0.493 Loss :  3.204
+[Run 8, Task 3, Epoch 40] [Training] loss :  0.097069942, acc :  0.9698, batch_idx : 120
+[Run 8, Task 3, Epoch 40] [Validate] Accuracy :  0.513 Loss :  3.189
+[Run 8, Task 3, Epoch 41] [Training] loss :  0.063933703, acc :  0.9804, batch_idx : 120
+[Run 8, Task 3, Epoch 41] [Validate] Accuracy :  0.499 Loss :  3.347
+[Run 8, Task 3, Epoch 42] [Training] loss :  0.042414644, acc :  0.9866, batch_idx : 120
+[Run 8, Task 3, Epoch 42] [Validate] Accuracy :  0.514 Loss :  3.454
+[Run 8, Task 3, Epoch 43] [Training] loss :  0.042012979, acc :  0.9874, batch_idx : 120
+[Run 8, Task 3, Epoch 43] [Validate] Accuracy :  0.497 Loss :  3.461
+[Run 8, Task 3, Epoch 44] [Training] loss :  0.043011454, acc :  0.9871, batch_idx : 120
+[Run 8, Task 3, Epoch 44] [Validate] Accuracy :  0.518 Loss :  3.726
+[Run 8, Task 3, Epoch 45] [Training] loss :  0.092169847, acc :  0.9711, batch_idx : 120
+[Run 8, Task 3, Epoch 45] [Validate] Accuracy :  0.518 Loss :  2.987
+[Run 8, Task 3, Epoch 46] [Training] loss :  0.084925244, acc :  0.9746, batch_idx : 120
+[Run 8, Task 3, Epoch 46] [Validate] Accuracy :  0.502 Loss :  3.331
+[Run 8, Task 3, Epoch 47] [Training] loss :  0.1202536, acc :  0.9624, batch_idx : 120
+[Run 8, Task 3, Epoch 47] [Validate] Accuracy :  0.516 Loss :  3.108
+[Run 8, Task 3, Epoch 48] [Training] loss :  0.06102814, acc :  0.9816, batch_idx : 120
+[Run 8, Task 3, Epoch 48] [Validate] Accuracy :  0.508 Loss :  3.158
+[Run 8, Task 3, Epoch 49] [Training] loss :  0.031418427, acc :  0.991, batch_idx : 120
+[Run 8, Task 3, Epoch 49] [Validate] Accuracy :  0.503 Loss :  3.541
+[Run 8, Task 3, Epoch 50] [Training] loss :  0.02629997, acc :  0.9927, batch_idx : 120
+[Run 8, Task 3, Epoch 50] [Validate] Accuracy :  0.507 Loss :  3.919
+[Run 8, Task 3, Epoch 51] [Training] loss :  0.029494738, acc :  0.9922, batch_idx : 120
+[Run 8, Task 3, Epoch 51] [Validate] Accuracy :  0.497 Loss :  3.729
+[Run 8, Task 3, Epoch 52] [Training] loss :  0.056689992, acc :  0.9831, batch_idx : 120
+[Run 8, Task 3, Epoch 52] [Validate] Accuracy :  0.519 Loss :  3.513
+[Run 8, Task 3, Epoch 53] [Training] loss :  0.056674154, acc :  0.9824, batch_idx : 120
+[Run 8, Task 3, Epoch 53] [Validate] Accuracy :  0.52 Loss :  3.815
+[Run 8, Task 3, Epoch 54] [Training] loss :  0.031318787, acc :  0.9911, batch_idx : 120
+[Run 8, Task 3, Epoch 54] [Validate] Accuracy :  0.518 Loss :  3.662
+[Run 8, Task 3, Epoch 55] [Training] loss :  0.035346173, acc :  0.9909, batch_idx : 120
+[Run 8, Task 3, Epoch 55] [Validate] Accuracy :  0.514 Loss :  3.812
+[Run 8, Task 3, Epoch 56] [Training] loss :  0.047016217, acc :  0.9851, batch_idx : 120
+[Run 8, Task 3, Epoch 56] [Validate] Accuracy :  0.517 Loss :  3.469
+[Run 8, Task 3, Epoch 57] [Training] loss :  0.074980104, acc :  0.978, batch_idx : 120
+[Run 8, Task 3, Epoch 57] [Validate] Accuracy :  0.515 Loss :  3.378
+[Run 8, Task 3] Early Stopping at Epoch 58, Valid Accuracy :  0.539
+[Run 8, Task 3, Epoch 58] [Test] Accuracy :  0.55
+[Run 9, Task 3, Epoch 0] [Training] loss :  1.8377597, acc :  0.2019, batch_idx : 120
+[Run 9, Task 3, Epoch 0] [Validate] Accuracy :  0.217 Loss :  1.645
+[Run 9, Task 3, Epoch 1] [Training] loss :  1.6604299, acc :  0.2041, batch_idx : 120
+[Run 9, Task 3, Epoch 1] [Validate] Accuracy :  0.19 Loss :  1.668
+[Run 9, Task 3, Epoch 2] [Training] loss :  1.6480431, acc :  0.2023, batch_idx : 120
+[Run 9, Task 3, Epoch 2] [Validate] Accuracy :  0.21 Loss :  1.645
+[Run 9, Task 3, Epoch 3] [Training] loss :  1.6387086, acc :  0.2099, batch_idx : 120
+[Run 9, Task 3, Epoch 3] [Validate] Accuracy :  0.201 Loss :  1.648
+[Run 9, Task 3, Epoch 4] [Training] loss :  1.6396062, acc :  0.2118, batch_idx : 120
+[Run 9, Task 3, Epoch 4] [Validate] Accuracy :  0.194 Loss :  1.636
+[Run 9, Task 3, Epoch 5] [Training] loss :  1.6286558, acc :  0.2053, batch_idx : 120
+[Run 9, Task 3, Epoch 5] [Validate] Accuracy :  0.19 Loss :  1.627
+[Run 9, Task 3, Epoch 6] [Training] loss :   1.599678, acc :  0.2451, batch_idx : 120
+[Run 9, Task 3, Epoch 6] [Validate] Accuracy :  0.271 Loss :  1.587
+[Run 9, Task 3, Epoch 7] [Training] loss :   1.575771, acc :  0.2621, batch_idx : 120
+[Run 9, Task 3, Epoch 7] [Validate] Accuracy :  0.26 Loss :  1.581
+[Run 9, Task 3, Epoch 8] [Training] loss :  1.5583711, acc :  0.2716, batch_idx : 120
+[Run 9, Task 3, Epoch 8] [Validate] Accuracy :  0.289 Loss :  1.542
+[Run 9, Task 3, Epoch 9] [Training] loss :  1.5438433, acc :  0.2746, batch_idx : 120
+[Run 9, Task 3, Epoch 9] [Validate] Accuracy :  0.28 Loss :  1.543
+[Run 9, Task 3, Epoch 10] [Training] loss :  1.5287486, acc :  0.2897, batch_idx : 120
+[Run 9, Task 3, Epoch 10] [Validate] Accuracy :  0.259 Loss :  1.565
+[Run 9, Task 3, Epoch 11] [Training] loss :  1.5168491, acc :  0.3036, batch_idx : 120
+[Run 9, Task 3, Epoch 11] [Validate] Accuracy :  0.334 Loss :  1.49
+[Run 9, Task 3, Epoch 12] [Training] loss :  1.4497191, acc :  0.3574, batch_idx : 120
+[Run 9, Task 3, Epoch 12] [Validate] Accuracy :  0.375 Loss :  1.41
+[Run 9, Task 3, Epoch 13] [Training] loss :   1.365831, acc :  0.4149, batch_idx : 120
+[Run 9, Task 3, Epoch 13] [Validate] Accuracy :  0.413 Loss :  1.398
+[Run 9, Task 3, Epoch 14] [Training] loss :  1.2282383, acc :  0.4993, batch_idx : 120
+[Run 9, Task 3, Epoch 14] [Validate] Accuracy :  0.527 Loss :  1.202
+[Run 9, Task 3, Epoch 15] [Training] loss :  1.0741788, acc :  0.5724, batch_idx : 120
+[Run 9, Task 3, Epoch 15] [Validate] Accuracy :  0.527 Loss :  1.159
+[Run 9, Task 3, Epoch 16] [Training] loss :  0.97530475, acc :  0.604, batch_idx : 120
+[Run 9, Task 3, Epoch 16] [Validate] Accuracy :  0.496 Loss :  1.173
+[Run 9, Task 3, Epoch 17] [Training] loss :  0.92104253, acc :  0.6281, batch_idx : 120
+[Run 9, Task 3, Epoch 17] [Validate] Accuracy :  0.527 Loss :  1.204
+[Run 9, Task 3, Epoch 18] [Training] loss :  0.87865441, acc :  0.638, batch_idx : 120
+[Run 9, Task 3, Epoch 18] [Validate] Accuracy :  0.532 Loss :  1.146
+[Run 9, Task 3, Epoch 19] [Training] loss :  0.81514093, acc :  0.6707, batch_idx : 120
+[Run 9, Task 3, Epoch 19] [Validate] Accuracy :  0.526 Loss :  1.205
+[Run 9, Task 3, Epoch 20] [Training] loss :  0.76971566, acc :  0.6957, batch_idx : 120
+[Run 9, Task 3, Epoch 20] [Validate] Accuracy :  0.519 Loss :  1.171
+[Run 9, Task 3, Epoch 21] [Training] loss :  0.71406532, acc :  0.7232, batch_idx : 120
+[Run 9, Task 3, Epoch 21] [Validate] Accuracy :  0.505 Loss :  1.315
+[Run 9, Task 3, Epoch 22] [Training] loss :  0.6676796, acc :  0.7382, batch_idx : 120
+[Run 9, Task 3, Epoch 22] [Validate] Accuracy :  0.49 Loss :  1.292
+[Run 9, Task 3, Epoch 23] [Training] loss :  0.60501735, acc :  0.7702, batch_idx : 120
+[Run 9, Task 3, Epoch 23] [Validate] Accuracy :  0.51 Loss :  1.418
+[Run 9, Task 3, Epoch 24] [Training] loss :  0.55826919, acc :  0.7901, batch_idx : 120
+[Run 9, Task 3, Epoch 24] [Validate] Accuracy :  0.517 Loss :  1.487
+[Run 9, Task 3, Epoch 25] [Training] loss :  0.50808505, acc :  0.814, batch_idx : 120
+[Run 9, Task 3, Epoch 25] [Validate] Accuracy :  0.512 Loss :  1.593
+[Run 9, Task 3, Epoch 26] [Training] loss :  0.46583039, acc :  0.8259, batch_idx : 120
+[Run 9, Task 3, Epoch 26] [Validate] Accuracy :  0.507 Loss :  1.613
+[Run 9, Task 3, Epoch 27] [Training] loss :  0.42475361, acc :  0.8447, batch_idx : 120
+[Run 9, Task 3, Epoch 27] [Validate] Accuracy :   0.5 Loss :  1.78
+[Run 9, Task 3, Epoch 28] [Training] loss :  0.38367405, acc :  0.8602, batch_idx : 120
+[Run 9, Task 3, Epoch 28] [Validate] Accuracy :  0.489 Loss :  1.901
+[Run 9, Task 3, Epoch 29] [Training] loss :  0.3386558, acc :  0.8779, batch_idx : 120
+[Run 9, Task 3, Epoch 29] [Validate] Accuracy :  0.51 Loss :  1.954
+[Run 9, Task 3, Epoch 30] [Training] loss :  0.30171863, acc :  0.8854, batch_idx : 120
+[Run 9, Task 3, Epoch 30] [Validate] Accuracy :  0.507 Loss :  2.064
+[Run 9, Task 3, Epoch 31] [Training] loss :  0.28471264, acc :  0.8996, batch_idx : 120
+[Run 9, Task 3, Epoch 31] [Validate] Accuracy :  0.503 Loss :  2.347
+[Run 9, Task 3, Epoch 32] [Training] loss :  0.26722521, acc :  0.9072, batch_idx : 120
+[Run 9, Task 3, Epoch 32] [Validate] Accuracy :  0.508 Loss :  2.336
+[Run 9, Task 3, Epoch 33] [Training] loss :  0.22019381, acc :  0.9231, batch_idx : 120
+[Run 9, Task 3, Epoch 33] [Validate] Accuracy :  0.512 Loss :  2.281
+[Run 9, Task 3, Epoch 34] [Training] loss :  0.21113766, acc :  0.9242, batch_idx : 120
+[Run 9, Task 3, Epoch 34] [Validate] Accuracy :   0.5 Loss :  2.575
+[Run 9, Task 3, Epoch 35] [Training] loss :  0.23539512, acc :  0.9177, batch_idx : 120
+[Run 9, Task 3, Epoch 35] [Validate] Accuracy :  0.492 Loss :  2.569
+[Run 9, Task 3, Epoch 36] [Training] loss :  0.16908095, acc :  0.941, batch_idx : 120
+[Run 9, Task 3, Epoch 36] [Validate] Accuracy :  0.49 Loss :  2.795
+[Run 9, Task 3, Epoch 37] [Training] loss :  0.14146364, acc :  0.9516, batch_idx : 120
+[Run 9, Task 3, Epoch 37] [Validate] Accuracy :   0.5 Loss :  3.107
+[Run 9, Task 3, Epoch 38] [Training] loss :  0.17292205, acc :  0.9418, batch_idx : 120
+[Run 9, Task 3, Epoch 38] [Validate] Accuracy :  0.496 Loss :  2.888
+[Run 9, Task 3, Epoch 39] [Training] loss :  0.17670064, acc :  0.9384, batch_idx : 120
+[Run 9, Task 3, Epoch 39] [Validate] Accuracy :  0.498 Loss :  2.824
+[Run 9, Task 3, Epoch 40] [Training] loss :  0.12451015, acc :  0.9571, batch_idx : 120
+[Run 9, Task 3, Epoch 40] [Validate] Accuracy :  0.499 Loss :  3.164
+[Run 9, Task 3, Epoch 41] [Training] loss :  0.1018922, acc :  0.965, batch_idx : 120
+[Run 9, Task 3, Epoch 41] [Validate] Accuracy :  0.486 Loss :  3.324
+[Run 9, Task 3, Epoch 42] [Training] loss :  0.1220241, acc :  0.9588, batch_idx : 120
+[Run 9, Task 3, Epoch 42] [Validate] Accuracy :  0.475 Loss :  3.512
+[Run 9, Task 3, Epoch 43] [Training] loss :  0.079295923, acc :  0.9736, batch_idx : 120
+[Run 9, Task 3, Epoch 43] [Validate] Accuracy :  0.476 Loss :  3.803
+[Run 9, Task 3, Epoch 44] [Training] loss :  0.073523438, acc :  0.9748, batch_idx : 120
+[Run 9, Task 3, Epoch 44] [Validate] Accuracy :  0.485 Loss :  3.644
+[Run 9, Task 3, Epoch 45] [Training] loss :  0.071505513, acc :  0.9758, batch_idx : 120
+[Run 9, Task 3, Epoch 45] [Validate] Accuracy :  0.485 Loss :  4.123
+[Run 9, Task 3, Epoch 46] [Training] loss :  0.10613243, acc :  0.9669, batch_idx : 120
+[Run 9, Task 3, Epoch 46] [Validate] Accuracy :  0.492 Loss :  3.78
+[Run 9, Task 3, Epoch 47] [Training] loss :  0.1148108, acc :  0.9614, batch_idx : 120
+[Run 9, Task 3, Epoch 47] [Validate] Accuracy :  0.49 Loss :  3.629
+[Run 9, Task 3, Epoch 48] [Training] loss :  0.093816206, acc :  0.9694, batch_idx : 120
+[Run 9, Task 3, Epoch 48] [Validate] Accuracy :  0.491 Loss :  3.913
+[Run 9, Task 3, Epoch 49] [Training] loss :  0.063706033, acc :  0.9791, batch_idx : 120
+[Run 9, Task 3, Epoch 49] [Validate] Accuracy :  0.492 Loss :  4.095
+[Run 9, Task 3, Epoch 50] [Training] loss :  0.038570517, acc :  0.9879, batch_idx : 120
+[Run 9, Task 3, Epoch 50] [Validate] Accuracy :  0.491 Loss :  4.331
+[Run 9, Task 3, Epoch 51] [Training] loss :  0.036429296, acc :  0.9894, batch_idx : 120
+[Run 9, Task 3, Epoch 51] [Validate] Accuracy :  0.498 Loss :  4.403
+[Run 9, Task 3, Epoch 52] [Training] loss :  0.049967409, acc :  0.9837, batch_idx : 120
+[Run 9, Task 3, Epoch 52] [Validate] Accuracy :  0.489 Loss :  4.353
+[Run 9, Task 3, Epoch 53] [Training] loss :  0.058841385, acc :  0.9814, batch_idx : 120
+[Run 9, Task 3, Epoch 53] [Validate] Accuracy :  0.46 Loss :  4.526
+[Run 9, Task 3, Epoch 54] [Training] loss :  0.096566379, acc :  0.9681, batch_idx : 120
+[Run 9, Task 3, Epoch 54] [Validate] Accuracy :  0.478 Loss :  4.059
+[Run 9, Task 3, Epoch 55] [Training] loss :  0.10944729, acc :  0.9653, batch_idx : 120
+[Run 9, Task 3, Epoch 55] [Validate] Accuracy :  0.472 Loss :  3.687
+[Run 9, Task 3, Epoch 56] [Training] loss :  0.083363837, acc :  0.9733, batch_idx : 120
+[Run 9, Task 3, Epoch 56] [Validate] Accuracy :  0.493 Loss :  4.259
+[Run 9, Task 3, Epoch 57] [Training] loss :  0.039941154, acc :  0.9873, batch_idx : 120
+[Run 9, Task 3, Epoch 57] [Validate] Accuracy :  0.463 Loss :  4.625
+[Run 9, Task 3, Epoch 58] [Training] loss :  0.025893707, acc :  0.9927, batch_idx : 120
+[Run 9, Task 3, Epoch 58] [Validate] Accuracy :  0.471 Loss :  4.838
+[Run 9, Task 3, Epoch 59] [Training] loss :  0.036449893, acc :  0.9896, batch_idx : 120
+[Run 9, Task 3, Epoch 59] [Validate] Accuracy :  0.48 Loss :  4.772
+[Run 9, Task 3, Epoch 60] [Training] loss :  0.031852966, acc :  0.9916, batch_idx : 120
+[Run 9, Task 3, Epoch 60] [Validate] Accuracy :  0.481 Loss :  5.124
+[Run 9, Task 3, Epoch 61] [Training] loss :  0.089328554, acc :  0.9713, batch_idx : 120
+[Run 9, Task 3, Epoch 61] [Validate] Accuracy :  0.468 Loss :  4.443
+[Run 9, Task 3, Epoch 62] [Training] loss :  0.08821833, acc :  0.9723, batch_idx : 120
+[Run 9, Task 3, Epoch 62] [Validate] Accuracy :  0.488 Loss :  4.447
+[Run 9, Task 3, Epoch 63] [Training] loss :  0.054343637, acc :  0.9849, batch_idx : 120
+[Run 9, Task 3, Epoch 63] [Validate] Accuracy :  0.476 Loss :  4.447
+[Run 9, Task 3, Epoch 64] [Training] loss :  0.040541581, acc :  0.9883, batch_idx : 120
+[Run 9, Task 3, Epoch 64] [Validate] Accuracy :  0.479 Loss :  4.764
+[Run 9, Task 3, Epoch 65] [Training] loss :  0.033206852, acc :  0.9899, batch_idx : 120
+[Run 9, Task 3, Epoch 65] [Validate] Accuracy :  0.47 Loss :  4.889
+[Run 9, Task 3, Epoch 66] [Training] loss :  0.029443073, acc :  0.9921, batch_idx : 120
+[Run 9, Task 3, Epoch 66] [Validate] Accuracy :  0.496 Loss :  4.853
+[Run 9, Task 3, Epoch 67] [Training] loss :  0.038555336, acc :  0.9882, batch_idx : 120
+[Run 9, Task 3, Epoch 67] [Validate] Accuracy :  0.48 Loss :  5.308
+[Run 9, Task 3, Epoch 68] [Training] loss :  0.092831233, acc :  0.9681, batch_idx : 120
+[Run 9, Task 3, Epoch 68] [Validate] Accuracy :  0.483 Loss :  4.361
+[Run 9, Task 3] Early Stopping at Epoch 69, Valid Accuracy :  0.532
+[Run 9, Task 3, Epoch 69] [Test] Accuracy :  0.517
