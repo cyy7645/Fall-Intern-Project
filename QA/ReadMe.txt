@@ -1,7 +1,7 @@
 I iterated the model for 3 times, they are dmn+, TreeLSTM_DMN+, Batch Based TreeLSTM_DMN+
 
 Introduction of every documents or folders:
-TreeLSTM_DMN+_Report_Chinese.docx : includes very detailed introduction of all models, how it developed.
+TreeLSTM_DMN+_Report_Chinese.docx : includes very detailed introduction of all models, how it developed in Chinese version, it is for Chinese customers.
 
 run_on_gpu_1.ipynb run_on_gpu_2.ipynb : Commands for running on GPU.
 
